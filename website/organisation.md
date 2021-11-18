@@ -4,6 +4,8 @@ layout: page
 #feature_image: "/assets/images/dater.jpg"
 ---
 
+TODO(jacopo): Update organisation
+
 <div class="container"></div>
 
 <!-- Order names alphabetically by surname -->

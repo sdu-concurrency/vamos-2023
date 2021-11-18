@@ -1,25 +1,25 @@
 ---
-title: GDPR Information on "CyberSecurity Days 2020 Contact form"
+title: GDPR Information on "VaMoS 2023 Contact form"
 layout: page
 #feature_image: "/assets/images/SDUFacade.jpg"
 ---
 
 As laid down in Article 13 of the General Data Protection Regulation (GDPR), we want to obtain your consent regarding the storage and processing of your data in the following procedure:
 
-- Procedure: CyberSecurity Days 2020: Contacting
-- Description of the procedure: Contact form for generic requests regarding the CyberSecurity Days 2020 at the University of Southern Denmark.
+- Procedure: VaMoS 2023: Contacting
+- Description of the procedure: Contact form for generic requests regarding the VaMoS 2023 at the University of Southern Denmark.
 - Contact data processing site:
     - Jacopo Mauro
     - Campusvej Ø18-511a-2
     - Institut for Matematik og Datalogi
     - Campusvej 55, 5230 Odense M, 
     - Denmark
-    - cybersecuritydays ~ at ~ sdu ~ dot ~ dk 
+    - vamos ~ at ~ sdu ~ dot ~ dk (TODO(jacopo): Is the email correct?)
 - Affected persons: Students, Employees, external people (generally, every interested person can use the form to contact the organisers)
 - Stored and processed data: First name, last name, e-mail, subject, message.
 - Profiling: None.
 - Legal basis: Consent to Article 6 Subparagraph 1 a), Article 7 GDPR
-- Storage period: Until December 31st, 2020.
+- Storage period: Until February 28th, 2023. (TODO(jacopo): Is the date correct?)
 - Data protection officer:
     - Simon Kamber
     - Campusvej Ø18-511a-2

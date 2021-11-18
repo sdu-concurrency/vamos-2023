@@ -7,8 +7,6 @@ exclude:
 - Gemfile.lock
 - alembic-jekyll-theme.gemspec
 - submission.md
-- attending.md
-- registration.md
 - include_md.html
 - clean-unused-includes.sh
 
@@ -40,12 +38,15 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "Cybersecurity Days 2020" # Site name or title, also used in jekyll-seo-tag
+title: "VaMoS 2023" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/images/cybersecurity_days.svg" # Site logo, also used in jekyll-seo-tag
-description: "Cybersecurity Days 2020" # Site description and default description, also used in jekyll-seo-tag
-url: https://cyberdays2020.sdu.dk/
+description: "VaMoS 2023" # Site description and default description, also used in jekyll-seo-tag
+# TODO(jacopo): Add proper URL
+url: https://vamos2023.sdu.dk/
 baseurl: "" # Site url, also used in jekyll-seo-tag
-email: "cyberdays2020@sdu.dk"
+# TODO(jacopo): Add proper email
+email: "vamos@sdu.dk"
+# TODO(jacopo): Add proper Google Analytics
 google_analytics_code: "UA-148070469-1"
 google_verification_code: "rBEQWY8MvADXuhgoMQVy7Emg75i1Ew_96MFlF2TzmBM"
 avatarurl: "/assets/images/favicon.ico" # Uses avatars for favicons to get multiple sites, eg Gravatar, Twitter, GitHub
@@ -56,9 +57,11 @@ header_right: |
 # 8. Site navigation
 navigation_header:
   Home: /
-  Speakers: /speakers/
-  Program: /program/
-# Attending: /attending/
-# Registration: /registration/
+# TODO(jacopo): Update speakers (_data/speakers.yml)
+#  Speakers: /speakers/
+# TODO(jacopo): Update program (_data/program.yml)
+#  Program: /program/
+  Attending: /attending/
+  Registration: /registration/
   Organisation: /organisation/
   Contact: /contact/

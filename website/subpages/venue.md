@@ -1,12 +1,14 @@
 
 ### Location
 
-CyberSecurity Days 2020 will take place at the Odense Campus of the [University of Southern Denmark](http://www.sdu.dk/en/), [*Room O100*](https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb921423b7d0540c9a48b).
+TODO(jacopo): Update the venue information
+
+VaMoS 2023 will take place at the Odense Campus of the [University of Southern Denmark](http://www.sdu.dk/en/), [*Room O100*](https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb921423b7d0540c9a48b).
 
 ### Directions
 
 The University of Southern Denmark main campus can be reached by bus or by car.
-In this page, you will find detailed instructions on how to reach the main location of the CyberSecurity Days.
+In this page, you will find detailed instructions on how to reach the main location of the VaMoS conference.
 
 Please, note that the main campus is formed by an extended number of buildings. If you get lost, just enter any University building: they are all connected, and there are maps on most main doors. You can also find your way by using the online map application available at <a target="_blank" href="https://maps.sdu.dk">https://maps.sdu.dk</a>.
 
