@@ -10,6 +10,7 @@ exclude:
 - attending.md
 - registration.md
 - include_md.html
+- clean-unused-includes.sh
 
 # 2. Installed Gems
 plugins:
