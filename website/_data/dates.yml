@@ -1,18 +1,9 @@
-- summary: Registration closes
-  id: registration_closes
-  expired: true
-  entries: 
-    - date: 2020-10-28
-      zone:
-        tzid: Europe/Copenhagen
-        label: CET (UTC+1)
-
-- summary: Cybersecurity Days
-  id: cybersecurity school
-  expired: true
+- summary: VaMoS 2023
+  id: vamos
+  expired: false
   entries:
-    - from: 2020-10-29
-      to: 2020-10-30
+    - from: 2023-02-22
+      to: 2023-02-24
       zone:
         tzid: Europe/Copenhagen
         label: CET (UTC+1)
