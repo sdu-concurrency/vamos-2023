@@ -1,0 +1,37 @@
+\documentclass{article}
+\usepackage[paperwidth=1024px,paperheight=768px,top=0cm, bottom=0cm, outer=0cm, inner=0cm]{geometry}
+\usepackage[pages=some]{background}
+\usepackage{anyfontsize}
+\usepackage{datatool}
+\usepackage[sfdefault]{cabin}
+\usepackage[T1]{fontenc}
+
+\DTLloaddb{data}{sessions.csv}
+
+\backgroundsetup{
+scale=1,
+color=black,
+opacity=1,
+angle=0,
+contents={%
+  \includegraphics[width=\paperwidth,height=\paperheight]{../_session_template}
+  }%
+}
+\pagestyle{empty}
+\begin{document}
+\sffamily
+\DTLforeach*
+{data}
+{\title=title, \lecturer=lecturer, \affiliation=affiliation}
+ {
+    \BgThispage
+    \vspace*{\fill}
+    \begin{center}
+    {\fontsize{60}{70}\selectfont \title}\\[5em]
+    {\fontsize{40}{50}\selectfont \lecturer}\\[1em]
+    {\fontsize{30}{40}\selectfont \affiliation}
+    \end{center}
+    \vspace*{\fill}
+    \newpage
+ }
+\end{document}

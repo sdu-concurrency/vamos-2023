@@ -1,0 +1,26 @@
+\documentclass{article}
+\usepackage[paperwidth=1024px,paperheight=768px,top=0cm, bottom=0cm, outer=0cm, inner=0cm]{geometry}
+\usepackage[pages=some]{background}
+\usepackage{anyfontsize}
+\usepackage{datatool}
+\usepackage[sfdefault]{cabin}
+\usepackage[T1]{fontenc}
+
+\DTLloaddb{data}{sessions.csv}
+
+\backgroundsetup{
+scale=1,
+color=black,
+opacity=1,
+angle=0,
+contents={%
+  \includegraphics[width=\paperwidth,height=\paperheight]{../_seminar_template}
+  }%
+}
+\pagestyle{empty}
+\begin{document}
+\sffamily
+\null
+\BgThispage
+\newpage
+\end{document}

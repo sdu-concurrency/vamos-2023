@@ -1,0 +1,4 @@
+Gemfile.lock
+website/.sass-cache/*
+website/.jekyll-cache/*
+website/_site/*

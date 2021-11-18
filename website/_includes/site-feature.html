@@ -1,0 +1,33 @@
+{% assign feature_text = page.feature_text %}
+{% assign feature_image = page.feature_image %}
+{% assign image_source = page.image_source %}
+{% if page.collectionpage %}
+  {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
+  {% assign feature_text = collectiondata.feature_text %}
+  {% assign feature_image = collectiondata.feature_image %}
+  {% assign image_source = collectiondata.image_source %}
+{% endif %}
+
+{% if site.header_left %}
+  <div class="container-fluid">
+    {% comment %}<div class="row">{% include top-row.html %}</div>{% endcomment -%}
+    <div class="row">
+      <div class="col-xs-6 col-sm-6 vertical-align">
+        {{ site.header_left }}
+      </div>
+      <div class="col-xs-6 col-sm-6 vertical-align">
+        {{ site.header_right }}
+      </div>
+    </div>
+  </div>
+{% endif %}
+{% if feature_text or feature_image %}
+  <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }}); position:relative;"{% endif %}>
+      {% if image_source %}
+	  <div style="position: absolute; bottom: 8px; left: 16px; color:white;">Source: {{ image_source }}</div>
+	  {% endif %}
+      <div class="mycontainer  typeset">
+        {{ feature_text | markdownify }}
+      </div>
+  </div>
+{% endif %}

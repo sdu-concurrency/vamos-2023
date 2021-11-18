@@ -1,0 +1,63 @@
+exclude:
+- README.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- alembic-jekyll-theme.gemspec
+- submission.md
+- attending.md
+- registration.md
+- include_md.html
+
+# 2. Installed Gems
+plugins:
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jemoji
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Europe/Rome # Timezone for blog posts and alike
+
+# 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: page # Default layout      
+      feature_image: "/assets/images/cybersecurity-4.png"
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+title: "Cybersecurity Days 2020" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/images/cybersecurity_days.svg" # Site logo, also used in jekyll-seo-tag
+description: "Cybersecurity Days 2020" # Site description and default description, also used in jekyll-seo-tag
+url: https://cyberdays2020.sdu.dk/
+baseurl: "" # Site url, also used in jekyll-seo-tag
+email: "cyberdays2020@sdu.dk"
+google_analytics_code: "UA-148070469-1"
+google_verification_code: "rBEQWY8MvADXuhgoMQVy7Emg75i1Ew_96MFlF2TzmBM"
+avatarurl: "/assets/images/favicon.ico" # Uses avatars for favicons to get multiple sites, eg Gravatar, Twitter, GitHub
+header_left: |
+  <h3><a href="/"><img class="img-responsive" style="max-height:2em;" src="/assets/images/cybersecurity_days.png" alt=""></a></h3>
+header_right: |
+  <h3 style="margin-left:auto; text-align:right"><del>Odense</del> <ins>Zoom</ins><br>29-30 Oct. 2020</h3>
+# 8. Site navigation
+navigation_header:
+  Home: /
+  Speakers: /speakers/
+  Program: /program/
+# Attending: /attending/
+# Registration: /registration/
+  Organisation: /organisation/
+  Contact: /contact/
