@@ -14,12 +14,12 @@ As laid down in Article 13 of the General Data Protection Regulation (GDPR), we 
     - Institut for Matematik og Datalogi
     - Campusvej 55, 5230 Odense M, 
     - Denmark
-    - vamos ~ at ~ sdu ~ dot ~ dk (TODO(jacopo): Is the email correct?)
+    - mauro ~ at ~ imada ~ dot ~ sdu ~ dot ~ dk
 - Affected persons: Students, Employees, external people (generally, every interested person can use the form to contact the organisers)
 - Stored and processed data: First name, last name, e-mail, subject, message.
 - Profiling: None.
 - Legal basis: Consent to Article 6 Subparagraph 1 a), Article 7 GDPR
-- Storage period: Until February 28th, 2023. (TODO(jacopo): Is the date correct?)
+- Storage period: Until December 31th, 2023.
 - Data protection officer:
     - Simon Kamber
     - Campusvej Ø18-511a-2

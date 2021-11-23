@@ -4,9 +4,7 @@ layout: page
 #feature_image: "/assets/images/SDUFacade.jpg"
 ---
 
-TODO(jacopo): Update URL
-
-<form action="https://formspree.io/cybersecuritydays@sdu.dk" method="POST">
+<form action="https://formspree.io/f/xeqnjqpn" method="POST">
   <input type="text" name="name" placeholder="Your name">
   <input type="email" name="_replyto" placeholder="Your email">
   <input type="text" name="subject" placeholder="Subject">

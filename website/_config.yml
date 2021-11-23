@@ -61,7 +61,7 @@ navigation_header:
 #  Speakers: /speakers/
 # TODO(jacopo): Update program (_data/program.yml)
 #  Program: /program/
-  Attending: /attending/
-  Registration: /registration/
+#  Attending: /attending/
+#  Registration: /registration/
   Organisation: /organisation/
   Contact: /contact/
