@@ -34,7 +34,6 @@ layout: page
 <table>
   <tbody>
     <tr><td>Lovro Lugovic</td><td>University of Southern Denmark</td></tr>
-    <tr><td>Jacopo Mauro</td><td>University of Southern Denmark</td></tr>
     <tr><td>Valentino Picotti</td><td>University of Southern Denmark</td></tr>
   </tbody>
 </table>

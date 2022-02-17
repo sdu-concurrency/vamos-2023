@@ -77,7 +77,7 @@
 }
 </style>
 
-
+{%- comment -%}
 <div class="panel panel-primary">
 <div class="panel-heading">
 <strong>Registration</strong>
@@ -85,11 +85,12 @@
 <ul class="list-group">
 <li class="list-group-item">
   <p class="text-center">
-    <a href="https://www.conferencemanager.dk/cyberdays2020/signup"><button style="padding:1em;" type="button" class="btn btn-primary btn-lg">Sign up! TODO: Jacopo</button></a>
+    <a href="https://www.conferencemanager.dk/vamos2023/signup"><button style="padding:1em;" type="button" class="btn btn-primary btn-lg">Sign up! TODO: Jacopo</button></a>
   </p>
 </li>
 </ul>
 </div>
+{%- endcomment -%}
 
 <div class="panel panel-primary">
 <div class="panel-heading">
@@ -146,6 +147,7 @@
 </div>
 
 <script>
+
 function microservices_community_events( data ){
   const upcoming = $( "#microservices_community_events_upcoming" )
   data.upcoming.forEach( element => {
