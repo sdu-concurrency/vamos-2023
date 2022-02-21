@@ -39,7 +39,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 title: "VaMoS 2023" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/images/cybersecurity_days.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/images/vamos-2023-logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "VaMoS 2023" # Site description and default description, also used in jekyll-seo-tag
 url: https://vamos2023.sdu.dk/
 baseurl: "" # Site url, also used in jekyll-seo-tag
@@ -50,7 +50,7 @@ email: "vamos@sdu.dk"
 #google_verification_code: "rBEQWY8MvADXuhgoMQVy7Emg75i1Ew_96MFlF2TzmBM"
 avatarurl: "/assets/images/favicon.ico" # Uses avatars for favicons to get multiple sites, eg Gravatar, Twitter, GitHub
 header_left: |
-  <h3><a href="/"><img class="img-responsive" style="max-height:2em;" src="/assets/images/cybersecurity_days.png" alt=""></a></h3>
+  <h3><a href="/"><img class="img-responsive" style="max-height:2em;" src="/assets/images/vamos-2023-logo.svg" alt=""></a></h3>
 header_right: |
   <h3 style="margin-left:auto; text-align:right">Odense<br>22-24 Feb 2023</h3>
 # 8. Site navigation
