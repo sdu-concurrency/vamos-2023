@@ -20,8 +20,8 @@ layout: page
 ### PC-Chairs
 <table>
   <tbody>
-    <tr><td>Myra Cohen</td><td>University of Ulm</td></tr>
-    <tr><td>Thomas Thüm</td><td>Iowa State University</td></tr>
+    <tr><td>Myra Cohen</td><td>Iowa State University</td></tr>
+    <tr><td>Thomas Thüm</td><td>University of Ulm</td></tr>
   </tbody>
 </table>
 
