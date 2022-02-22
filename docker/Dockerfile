@@ -11,7 +11,7 @@ libxml2-dev libxslt-dev libffi-dev
 
 FROM Source as Build
 
-RUN git clone --depth=1 https://github.com/sdu-concurrency/cybersecurity_days_2020 /git
+RUN git clone --depth=1 https://github.com/sdu-concurrency/vamos-2023.git /git
 WORKDIR /git/website
 RUN make all
 
