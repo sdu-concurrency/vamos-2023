@@ -52,7 +52,7 @@ avatarurl: "/assets/images/favicon.ico" # Uses avatars for favicons to get multi
 header_left: |
   <h3><a href="/"><img class="img-responsive" style="max-height:2em;" src="/assets/images/vamos-2023-logo.svg" alt=""></a></h3>
 header_right: |
-  <h3 style="margin-left:auto; text-align:right">Odense<br>22-24 Feb 2023</h3>
+  <h3 style="margin-left:auto; text-align:right">Odense<br>25-27 Jan 2023</h3>
 # 8. Site navigation
 navigation_header:
   Home: /

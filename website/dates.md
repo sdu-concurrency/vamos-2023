@@ -14,6 +14,6 @@ layout: page
     <tr><td>Paper Submission: 10 October 2022</td></tr>
     <tr><td>Notification: 15 November 2022</td></tr>
     <tr><td>Final Version: 29 November 2022</td></tr>
-    <tr><td>Conference: 22-24 February 2023</td></tr>
+    <tr><td>Conference: 25-27 January 2023</td></tr>
   </tbody>
 </table>
