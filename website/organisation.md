@@ -29,6 +29,14 @@ layout: page
 ### PC Members
 {%- endcomment -%}
 
+### Publicity Chair
+
+<table>
+  <tbody>
+    <tr><td>Tobias Heß</td><td>University of Ulm</td></tr>
+  </tbody>
+</table>
+
 
 ### Local Organisation
 <table>
