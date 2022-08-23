@@ -63,5 +63,5 @@ navigation_header:
 #  Attending: /attending/
 #  Registration: /registration/
   Organisation: /organisation/
-  Dates: /dates/
+#  Dates: /dates/
   Contact: /contact/
