@@ -1,3 +1,38 @@
+- summary: Abstract Submission
+  id: abstract
+  entries:
+    - date: 2022-10-04
+      zone:
+        tzid: Europe/Copenhagen
+        label: CET (UTC+1)
+
+- summary: Paper Submission
+  id: paper
+  expired: false
+  entries:
+    - date: 2022-10-10
+      zone:
+        tzid: Europe/Copenhagen
+        label: CET (UTC+1)
+
+- summary: Notification
+  id: notification
+  expired: false
+  entries:
+    - date: 2022-11-15
+      zone:
+        tzid: Europe/Copenhagen
+        label: CET (UTC+1)
+
+- summary: Final Version
+  id: final
+  expired: false
+  entries:
+    - date: 2022-11-29
+      zone:
+        tzid: Europe/Copenhagen
+        label: CET (UTC+1)
+
 - summary: VaMoS 2023
   id: vamos
   expired: false
