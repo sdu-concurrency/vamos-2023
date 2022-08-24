@@ -11,21 +11,24 @@ layout: page
 <style> td{min-width:12em} td+td{padding-left:10px;}</style>
 
 ### General Chair
+
 <table>
   <tbody>
     <tr><td>Jacopo Mauro</td><td>University of Southern Denmark, Denmark</td></tr>
   </tbody>
 </table>
 
-### PC-Chairs
+### PC Chairs
+
 <table>
   <tbody>
     <tr><td>Myra Cohen</td><td>Iowa State University, USA</td></tr>
     <tr><td>Thomas Thüm</td><td>University of Ulm, Germany</td></tr>
   </tbody>
-</table>    
-    
+</table>
+
 ### PC Members
+
 <table>
   <tbody>
     <tr><td>Alexksandar S. Dimovski</td><td> Mother Teresa University, North Macedonia</td></tr>
@@ -69,8 +72,8 @@ layout: page
   </tbody>
 </table>
 
-
 ### Local Organisation
+
 <table>
   <tbody>
     <tr><td>Lovro Lugović</td><td>University of Southern Denmark, Denmark</td></tr>
