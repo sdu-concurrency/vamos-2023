@@ -3,8 +3,6 @@ title: Call for Papers
 layout: page
 ---
 
-<div class="container"></div>
-<style> td{min-width:12em} td+td{padding-left:10px;}</style>
 
 ### Technical Papers
 

@@ -1,14 +1,11 @@
 ---
 title: Organising Committee
 layout: page
-#feature_image: "/assets/images/dater.jpg"
 ---
-
-<div class="container"></div>
 
 <!-- Order names alphabetically by surname -->
 
-<style> td{min-width:12em} td+td{padding-left:10px;}</style>
+<style>td { min-width: 12em; } td+td { padding-left: 10px; }</style>
 
 ### General Chair
 
