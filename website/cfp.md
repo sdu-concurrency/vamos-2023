@@ -3,6 +3,7 @@ title: Call for Papers
 layout: page
 ---
 
+<style>ul { padding-left: 15px; }</style>
 
 ### Technical Papers
 
