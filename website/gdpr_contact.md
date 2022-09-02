@@ -1,8 +1,9 @@
 ---
 title: GDPR Information on "VaMoS 2023 Contact form"
 layout: page
-#feature_image: "/assets/images/SDUFacade.jpg"
 ---
+
+<style>ul { padding-left: 15px; }</style>
 
 As laid down in Article 13 of the General Data Protection Regulation (GDPR), we want to obtain your consent regarding the storage and processing of your data in the following procedure:
 
