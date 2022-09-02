@@ -78,6 +78,7 @@ layout: page
 <table>
   <tbody>
     <tr><td>Lovro Lugović</td><td>University of Southern Denmark, Denmark</td></tr>
+    <tr><td>Ursula Lundgreen</td><td>University of Southern Denmark, Denmark</td></tr>
     <tr><td>Valentino Picotti</td><td>University of Southern Denmark, Denmark</td></tr>
   </tbody>
 </table>
