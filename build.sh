@@ -3,4 +3,6 @@
 docker run -it --rm \
        -v "$(pwd)"/website:/srv/jekyll \
        -v "$(pwd)"/.docker-cache:/usr/local/bundle \
-       jekyll/jekyll jekyll build
+       -e JEKYLL_ROOTLESS=1 \
+       jekyll/jekyll:4.2.0 \
+       jekyll build
