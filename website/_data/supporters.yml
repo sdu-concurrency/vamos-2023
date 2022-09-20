@@ -2,6 +2,10 @@
   type: Sponsor
   link: https://www.sdu.dk/en/om_sdu/institutter_centre/imada_matematik_og_datalogi
   logo: /assets/images/supporters/sdu.png
+- name: Carlsberg Danmark
+  type: Sponsor
+  link: https://carlsbergdanmark.dk/
+  logo: /assets/images/supporters/carlsberg.png
 - name: Digital Research Center Denmark
   type: Sponsor
   link: https://direc.dk/
