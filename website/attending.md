@@ -1,28 +1,33 @@
 ---
 title: Attending
 layout: page
-#feature_image: "/assets/images/lion.jpg"
 ---
 
+<style>
+ul {
+    padding-left: 15px;
+}
+
+th,td {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+</style>
+
 <ul class="nav nav-tabs nav-justified">
-  <li role="presentation" class="active">
-    <a href="#venue">Venue: Odense</a></li>
+  <li role="presentation" class="active"><a href="#venue">Venue</a></li>
   <li role="presentation"><a href="#hotels">Hotels</a></li>
 </ul>
 
 <div class="tab-content">
-<div role="tabpanel" class="tab-pane active" id="venue">
+  <div role="tabpanel" class="tab-pane active" id="venue">
+    {% include_relative include_md.html file="subpages/venue.md" %}
+  </div>
 
-  {% include_relative include_md.html file="subpages/venue.md" %}
-
-</div>
-
-<div role="tabpanel" class="tab-pane" id="hotels">
-   
-  {% include_relative include_md.html file="subpages/hotels.md" %}
-
-</div>
-
+  <div role="tabpanel" class="tab-pane" id="hotels">
+    {% include_relative include_md.html file="subpages/hotels.md" %}
+  </div>
 </div>
 
 <script>
