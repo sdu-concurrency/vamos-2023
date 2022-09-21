@@ -13,9 +13,9 @@ Maps](https://www.google.com/maps) is up to date and works just as well.
 
 ### Getting to Odense
 
-Getting to Odense from either of the two main airports is easiest by train,
-which stops at Odense's main station (Odense St.). You can buy tickets from
-[DSB's website](https://www.dsb.dk/en/) (available in English).
+Getting to Odense from one of the airports is easiest by train, which stops at
+Odense's main station (Odense St.). You can buy tickets from [DSB's
+website](https://www.dsb.dk/en/) (available in English).
 
 #### From Copenhagen airport
 
