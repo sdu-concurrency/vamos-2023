@@ -75,15 +75,15 @@ done upon arrival.
 
 Guests should **not** book directly with the hotel, but should instead send an
 email to <a href="mailto:hotel@sdu.dk">hotel@sdu.dk</a>. The email should
-mention the VaMoS conference and include the the following information:
+mention hotel Odeon and the VaMoS conference, and include the the following
+additional information:
 
-- Hotel
+- First name
+- Last name
+- Email address
 - Arrival date
 - Departure date
 - Breakfast (yes/no)
-- Last name
-- First name
-- Email address
 
 SDU will then provide the guest with further instructions. Payment will be done
 upon arrival.
