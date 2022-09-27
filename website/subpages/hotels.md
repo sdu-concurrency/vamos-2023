@@ -7,7 +7,7 @@ been made only for the period from 24 January 2023 to 27 January 2023.**
 the instructions below for the chosen hotel to be elligible for the discount.
 
 If you need a longer stay or have any problems with booking a hotel, please
-contact <a href="mailto:hotel@sdu.dk">hotel@sdu.dk</a>.
+contact SDU's Accommodation Office at [hotel@sdu.dk](mailto:hotel@sdu.dk).
 
 <table class="table">
   <thead>
@@ -77,9 +77,9 @@ done upon arrival.
 ## Hotel Odeon
 
 Guests should **not** book directly with the hotel, but should instead send an
-email to <a href="mailto:hotel@sdu.dk">hotel@sdu.dk</a>. The email should
-mention hotel Odeon and the VaMoS conference, and include the the following
-additional information:
+email to SDU's Accommodation Office at [hotel@sdu.dk](mailto:hotel@sdu.dk). The
+email should mention hotel Odeon and the VaMoS conference, and include the the
+following additional information:
 
 - First name
 - Last name
