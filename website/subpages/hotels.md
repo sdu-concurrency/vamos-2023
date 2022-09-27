@@ -21,7 +21,7 @@ contact <a href="mailto:hotel@sdu.dk">hotel@sdu.dk</a>.
       <th><strong>Rooms</strong></th>
     </tr>
   </thead>
-  
+
   <tbody>
     <tr>
       <td><a href="https://en.cabinn.com/hotel/cabinn-odense">Hotel Cabinn</a></td>
@@ -32,7 +32,7 @@ contact <a href="mailto:hotel@sdu.dk">hotel@sdu.dk</a>.
       <td>CBSHSL</td>
       <td>25</td>
     </tr>
-    
+
     <tr>
       <td><a href="https://millinghotels.dk/hoteller/milling-hotel-plaza/?lang=en">Hotel Plaza</a></td>
       <td>765 DKK</td>
@@ -42,7 +42,7 @@ contact <a href="mailto:hotel@sdu.dk">hotel@sdu.dk</a>.
       <td>1318789</td>
       <td>10</td>
     </tr>
-    
+
     <tr>
       <td><a href="https://millinghotels.dk/hoteller/milling-hotel-ansgar/?lang=en">Hotel Ansgar</a></td>
       <td>635 DKK</td>
@@ -52,9 +52,9 @@ contact <a href="mailto:hotel@sdu.dk">hotel@sdu.dk</a>.
       <td>1318861</td>
       <td>10</td>
     </tr>
-    
+
     <tr>
-      <td><a href="https://hotelodeon.dk/">Hotel Odeon</a></td>
+      <td><a href="https://hotelodeon.dk/en/">Hotel Odeon</a></td>
       <td>950 DKK</td>
       <td>112.5 DKK</td>
       <td>Odeons Kvarter 11<br/>5000 Odense C</td>
