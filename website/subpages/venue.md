@@ -7,17 +7,15 @@ U45*](https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb
 ## Directions
 
 You can use the [Rejseplanen (Journey
-Planner)](https://www.rejseplanen.dk/webapp/?language=en_EN) service (available
-in English) to find your way around Odense and Denmark in general.
-Alternatively, [Google Maps](https://www.google.com/maps) is up to date and
-works just as well.
+Planner)](https://www.rejseplanen.dk/webapp/?language=en_EN) service to find
+your way around Odense and Denmark in general. Alternatively, [Google
+Maps](https://www.google.com/maps) is up to date and works just as well.
 
 ### Getting to Odense
 
 Getting to Odense from one of the airports is easiest by train, which stops at
 Odense's main station (Odense St.). Trains are operated by
-[DSB](https://www.dsb.dk/en/) and tickets can be bought on their website
-(available in English).
+[DSB](https://www.dsb.dk/en/) and tickets can be bought on their website.
 
 #### From Copenhagen airport
 
@@ -30,17 +28,17 @@ hours.
 
 There is unfortunately no direct train line from the Aarhus airport to Odense.
 Therefore, the trip is both by bus and train. The airport has a [direct bus
-line](https://www.aar.dk/en/to-and-from-aar/) (available in English) to the
-Aarhus main station, from which you can take the train to Odense. The journey
-takes approximately two and a half hours.
+line](https://www.aar.dk/en/to-and-from-aar/) to the Aarhus main station, from
+which you can take the train to Odense. The journey takes approximately two and
+a half hours.
 
 #### From Billund airport
 
 Like Aarhus, the trip from Billund airport is both by bus and train. The airport
 has a [direct bus
 line](https://www.bll.dk/en/parking-and-transport/to-and-from-the-airport/busser/)
-(available in English) to the Vejle main station, from which you can take the
-train to Odense. The journey takes approximately two hours.
+to the Vejle main station, from which you can take the train to Odense. The
+journey takes approximately two hours.
 
 ### Getting to SDU
 
