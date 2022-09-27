@@ -1,10 +1,13 @@
 In coordination with SDU, VaMoS has managed to come to an agreement with
 selected hotels and secure reservations of a limited number of rooms and a
-discounted price for the attendees of the conference. The reservations have been
-made only for the period from 24 January 2023 to 27 January 2023.
+discounted price for the attendees of the conference. **The reservations have
+been made only for the period from 24 January 2023 to 27 January 2023.**
 
 **The deadline for booking the hotels is 15 December 2022**. Make sure to follow
 the instructions below for the chosen hotel to be elligible for the discount.
+
+If you need a longer stay or have any problems with booking a hotel, please
+contact <a href="mailto:hotel@sdu.dk">hotel@sdu.dk</a>.
 
 <table class="table">
   <thead>
