@@ -1,5 +1,5 @@
 In coordination with SDU, VaMoS has managed to come to an agreement with
-selected hotels and secure reservations of a limited number of rooms and a
+selected hotels and secure reservations of a limited number of rooms at a
 discounted price for the attendees of the conference. **The reservations have
 been made only for the period from 24 January 2023 to 27 January 2023.**
 

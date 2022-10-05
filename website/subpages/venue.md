@@ -52,8 +52,9 @@ instructions.
 
 Tickets for both the bus and the light rail can be bought from the [FynBus
 webshop](https://webshop.fynbus.dk/) or the FynBus Mobilbillet smartphone app
-(available for both Android and iPhone). If you're planning on coming by car,
-there are parking spaces available at the campus.
+(available for both Android and iPhone). For the bus specifically, tickets can
+also be bought from the bus driver. If you're planning on coming by car, there
+are parking spaces available at the campus.
 
 The main campus is formed by an extended number of buildings. If you get lost,
 just enter any university building: they are all connected, and there are maps
