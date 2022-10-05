@@ -1,8 +1,8 @@
 - summary: Abstract Submission
   id: abstract
-  expired: true
+  expired: false
   entries:
-    - date: 2022-10-04
+    - date: 2022-10-11
       zone:
         tzid: Europe/Copenhagen
         label: CET (UTC+1)
@@ -11,7 +11,7 @@
   id: paper
   expired: false
   entries:
-    - date: 2022-10-10
+    - date: 2022-10-17
       zone:
         tzid: Europe/Copenhagen
         label: CET (UTC+1)
