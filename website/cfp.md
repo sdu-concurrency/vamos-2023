@@ -48,6 +48,37 @@ up to 4 pages (+ 2 additional pages for references only) and will be reviewed by
 3 different reviewers. The review for variability-in-practice papers will follow
 a single-blind review process.
 
+### New and Controversial Ideas Papers
+
+As a new addition to VaMoS this year we are including a "New and Controversial
+Ideas" track.
+
+This track is meant for authors to present short (lightning) talks on new (not
+yet highly evaluated) areas of research or to state positions (possibly
+controversial) on the directions or lack of directions, on any topic relevant to
+the VaMoS scientific community. The papers will be 2 pages (+1 for references)
+in the conference format. Authors names and affiliations should be included in
+the submissions.
+
+Exceptionally for this track, the deadline for submission is **27 October 2022
+(AoE)**.
+
+These papers will receive a lightweight review, but should not simply be a
+shortened version of an existing paper. Reviewers will evaluate these papers on
+how well they articulate a new idea and/or position by providing a compelling
+argument as to
+
+* why the topic is important for the VaMoS community,
+
+* if the idea or position has potential to work, and
+
+* the potential of the topic to foster interesting discussions at this year’s
+  conference.
+
+**We are working to include these as part of the main proceedings, pending
+approval from our publisher. We will update this site with more information when
+it becomes available.**
+
 ### Format and Submission Site
 
 All submissions must be written in English and follow the [double-column ACM
