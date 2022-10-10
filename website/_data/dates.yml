@@ -4,8 +4,8 @@
   entries:
     - date: 2022-10-11
       zone:
-        tzid: Europe/Copenhagen
-        label: CET (UTC+1)
+        tzid: Etc/GMT+12
+        label: AoE (UTC-12)
 
 - summary: Paper Submission
   id: paper
@@ -13,8 +13,8 @@
   entries:
     - date: 2022-10-17
       zone:
-        tzid: Europe/Copenhagen
-        label: CET (UTC+1)
+        tzid: Etc/GMT+12
+        label: AoE (UTC-12)
 
 - summary: Initial Decision and Notification
   id: notification
@@ -22,8 +22,8 @@
   entries:
     - date: 2022-11-15
       zone:
-        tzid: Europe/Copenhagen
-        label: CET (UTC+1)
+        tzid: Etc/GMT+12
+        label: AoE (UTC-12)
 
 - summary: Final Version
   id: final
@@ -31,8 +31,8 @@
   entries:
     - date: 2022-11-29
       zone:
-        tzid: Europe/Copenhagen
-        label: CET (UTC+1)
+        tzid: Etc/GMT+12
+        label: AoE (UTC-12)
 
 - summary: Conference
   id: conference
@@ -41,5 +41,5 @@
     - from: 2023-01-25
       to: 2023-01-27
       zone:
-        tzid: Europe/Copenhagen
-        label: CET (UTC+1)
+        tzid: Etc/GMT+12
+        label: AoE (UTC-12)
