@@ -75,9 +75,9 @@ argument as to
 * the potential of the topic to foster interesting discussions at this year's
   conference.
 
-**We are working to include these as part of the main proceedings, pending
+NOTE: We are working to include these as part of the main proceedings, pending
 approval from our publisher. We will update this site with more information when
-it becomes available.**
+it becomes available.
 
 ### In-person Presentations of VaMoS 2021--2022 Papers
 
