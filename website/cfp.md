@@ -79,6 +79,23 @@ argument as to
 approval from our publisher. We will update this site with more information when
 it becomes available.**
 
+### In-person Presentations of VaMoS 2021--2022 Papers
+
+This year VaMoS will provide a limited number of presentation slots to authors
+of papers from VaMoS 2021--2022. We realize that many in our VaMoS community
+missed out on an opportunity to attend and present their research in person
+during the past 2 years. To bring back the vibrancy of our in-person community,
+we are planning to reserve some presentation slots for those authors.
+
+Authors will be asked to submit the title of their paper, along with author
+names. The program chairs will review this data and invite the authors to
+present at this year's conference. Authors will be expected to register and
+attend this year's event. This is a unique opportunity to present the research
+as it was originally presented (virtually), as well as (optionally) to add some
+additional context on the state of the research today.
+
+The deadline for submission is **27 October 2022 (AoE)**.
+
 ### Format and Submission Site
 
 All submissions must be written in English and follow the [double-column ACM
