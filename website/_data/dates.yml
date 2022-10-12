@@ -16,6 +16,15 @@
         tzid: Etc/GMT+12
         label: AoE (UTC-12)
 
+- summary: New and Controversial Ideas Paper Submission
+  id: paper
+  expired: false
+  entries:
+    - date: 2022-10-27
+      zone:
+        tzid: Etc/GMT+12
+        label: AoE (UTC-12)
+
 - summary: Initial Decision and Notification
   id: notification
   expired: false
