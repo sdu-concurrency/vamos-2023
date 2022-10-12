@@ -17,7 +17,7 @@ up to 8 pages (+ 2 additional pages for references only) for long papers. Each
 submission will be reviewed by 3 different reviewers following a
 double-anonymous review process in which the identity of authors will not be
 known to the program committee at any time during the process. The papers
-submitted must not reveal the authors’ identities in any way.
+submitted must not reveal the authors' identities in any way.
 
 * Authors should leave out author names and affiliations from the body of their
   submission.
@@ -72,7 +72,7 @@ argument as to
 
 * if the idea or position has potential to work, and
 
-* the potential of the topic to foster interesting discussions at this year’s
+* the potential of the topic to foster interesting discussions at this year's
   conference.
 
 **We are working to include these as part of the main proceedings, pending
@@ -110,7 +110,7 @@ Accepted contributions will be published by ACM in the conference proceedings.
 
 ### Ten-years Most Influential Paper
 
-We are proud to celebrate VaMoS’ own history and outstanding past publications.
+We are proud to celebrate VaMoS' own history and outstanding past publications.
 As such, we will continue the 10-year most influential paper award tradition and
 will reward papers from the earlier VaMoS editions that had the highest impact
 on the community and beyond.
