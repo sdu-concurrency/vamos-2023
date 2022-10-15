@@ -79,7 +79,7 @@ NOTE: We are working to include these as part of the main proceedings, pending
 approval from our publisher. We will update this site with more information when
 it becomes available.
 
-### In-person Presentations of VaMoS 2021--2022 Papers
+### Snapshots of VaMoS 2021-2022 Papers
 
 This year VaMoS will provide a limited number of presentation slots to authors
 of papers from VaMoS 2021--2022. We realize that many in our VaMoS community
