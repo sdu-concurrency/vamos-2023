@@ -1,3 +1,20 @@
+---
+title: Hotels
+layout: page
+---
+
+<style>
+ul {
+    padding-left: 15px;
+}
+
+th,td {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+</style>
+
 In coordination with SDU, VaMoS has managed to come to an agreement with
 selected hotels and secure reservations of a limited number of rooms at a
 discounted price for the attendees of the conference. **The reservations have

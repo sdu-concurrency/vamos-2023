@@ -62,7 +62,8 @@ navigation_header:
 #  Program: /program/
   CFP: /cfp/
   Registration: /registration/
-  Attending: /attending/
+  Venue: /venue/
+  Hotels: /hotels/
   Organisation: /organisation/
 #  Dates: /dates/
   Contact: /contact/
