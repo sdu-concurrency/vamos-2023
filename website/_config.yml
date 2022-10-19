@@ -60,10 +60,9 @@ navigation_header:
 #  Speakers: /speakers/
 # TODO(jacopo): Update program (_data/program.yml)
 #  Program: /program/
-#  Attending: /attending/
-#  Registration: /registration/
-  Attending: /attending/
   CFP: /cfp/
+  Registration: /registration/
+  Attending: /attending/
   Organisation: /organisation/
 #  Dates: /dates/
   Contact: /contact/
