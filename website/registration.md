@@ -5,13 +5,18 @@ layout: page
 
 <style>ul { padding-left: 15px; }</style>
 
-Coming soon.
+Coming soon. The link for the registration will be provided in early November.
 
+Thanks for the patience.
+
+{% comment %}
 The conference registration is handled by SDU through Conference Manager.
 
 Click on the button below to open the registration page and follow the step to sign up for VaMoS 2023.
 
 https://www.conferencemanager.dk/cyberdays2020/signup
+
+{% endcomment %}
 
 ### Application for Free Registration for PhD Students and Postdocs
 
