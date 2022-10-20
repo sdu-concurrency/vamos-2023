@@ -1,20 +1,53 @@
 ---
 title: Registration
 layout: page
-#feature_image: "/assets/images/aelling.jpg"
 ---
 
-TODO(jacopo): Update registration URL
+<style>ul { padding-left: 15px; }</style>
 
-<div class="jumbotron">
-  <p>The conference registration is handled by SDU through Conference Manager.</p>
-  <p>Click on the button below to open the registration page and follow the step to sign up for VaMoS 2023.</p>
-<div markdown="1" class="text-justify">
-<p style="margin:2em;" class="text-center">
-    <a target="_blank" href="https://www.conferencemanager.dk/cyberdays2020/signup"><button style="padding:1em;" type="button" class="btn btn-primary btn-lg">Sign up!</button></a>
-</p>
-<p>Participation is now free. If you already registered and paid a registration fee, you will be refunded.</p>
-<div class="clearfix"></div>
+Coming soon. The link for the registration will be provided in early November.
 
-</div>
-</div>
+Thanks for the patience.
+
+{% comment %}
+The conference registration is handled by SDU through Conference Manager.
+
+Click on the button below to open the registration page and follow the step to sign up for VaMoS 2023.
+
+https://www.conferencemanager.dk/cyberdays2020/signup
+
+{% endcomment %}
+
+### Application for Free Registration for PhD Students and Postdocs
+
+Thanks to the support of the Carlsberg Foundation and the Digital Research
+Centre Denmark, we offer 10 free registrations for the VaMoS conference to
+motivated PhD students or postdocs that wish to attend the conference.
+
+Applicants must send an email to the General Chair
+([mauro@imada.sdu.dk](mailto:mauro@imada.sdu.dk)) with the subject line:
+"Application for VaMoS free registration - [Your Last Name]" **before November
+23rd**. The email should provide the following information:
+
+- a text of max 2000 characters explaining the scientific relevance of the
+  participation at VaMoS 2023 in relation to the applicant's current scientific
+  development and activities,
+
+- a short CV of max 2 pages including personal data (full name, address, etc.),
+  education (for academic degrees, list the date and year when you obtained the
+  degree), current and most recent employment.
+
+To support university research groups or research centres in developing
+countries in their aim to grow into excellent research centres by upgrading
+local academic personnel, 2 free registrations are reserved for students coming
+from institutions from the [UN list of developing
+countries](https://www.un.org/development/desa/dpad/least-developed-country-category/ldcs-at-a-glance.html).
+These students will also be entitled a sum of 3000 DKK to partially cover the
+accommodation costs.
+
+Applications will be evaluated by the general chair (Jacopo Mauro) and the PC
+chairs (Myra Cohen and Thomas Thüm) and prioritized based on the relevance of
+the conference participation to the scientific development and activities of the
+applicant. Further ties will be solved by considering the time of arrival of the
+application. If you have questions regarding the application procedure, please
+contact [mauro@imada.sdu.dk](mailto:mauro@imada.sdu.dk).

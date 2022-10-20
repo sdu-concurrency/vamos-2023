@@ -1,3 +1,8 @@
+---
+title: Venue
+layout: page
+---
+
 ## Location
 
 VaMoS 2023 will take place at the Odense Campus of the [University of Southern
