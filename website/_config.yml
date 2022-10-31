@@ -34,7 +34,7 @@ defaults:
       type: pages
     values:
       layout: page # Default layout      
-      feature_image: "/assets/images/feature.png"
+      feature_image: "/assets/images/andersen_museum.jpg"
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
