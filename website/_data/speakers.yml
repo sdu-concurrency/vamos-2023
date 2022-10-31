@@ -1,84 +1,16 @@
 ---
-- name: "Diego Aranha"
-  affiliation: "Aarhus University"
-  link: "http://pure.au.dk/portal/en/persons/id%2859960ca5-ad41-44e3-8b4c-d9a7e9c0888f%29.html"
-  picture: "daranha.jpg"
+- name: "Yves Bossu"
+  affiliation: "Product Configuration Specialist at Renault"
+  link: "https://fr.linkedin.com/in/yvesbossu"
+  picture: ""
   bio: |
-    Diego F. Aranha is an Associate Professor in the Department of Computer Science at Aarhus University. He was previously an Assistant Professor in the Department of Engineering at AU (2 years), University of Brasília (3 years) and the University of Campinas (4 years). He holds a Ph.D degree in Computer Science from the University of Campinas and has worked as a visiting PhD student for 1 year at the University of Waterloo. His professional experience is in Cryptography and Computer Security, with a special interest in the efficient implementation of cryptographic algorithms and security analysis of real-world systems. He coordinated two teams of independent researchers capable of detecting and exploring vulnerabilities in the software of the Brazilian voting machine during controlled tests organized by the national electoral authority. He received the Google Latin America Research Award for research on privacy twice, and the MIT TechReview's Innovators Under 35 Brazil Award for his work in electronic voting.
-  title: "Blockchain Technology"
+    Bio
+  title: "Title"
 
-- name: "Tomasz Blaszczyk"
-  affiliation: "Technical University of Denmark"
-#  link: ""
-  picture: "tblaszczyk.jpg"
+- name: "Marsha Chechik"
+  affiliation: "University of Toronto"
+  link: "https://www.cs.toronto.edu/~chechik/"
+  picture: ""
   bio: |
-    Tomasz Blaszczyk has been working at Technical University of Denmark for 7 years as Researcher. He received a bachelor's degree in Electrical Engineering from Copenhagen University College of Engineering (Denmark) and in 2006 he finalized Faculty of Automatic Control, Electronics and Computer Science and granted the degree of Master of Science, Engineer from Silesian University of Technology in Poland. Since 2006 he has been working on circuit design & instrument development for industrial applications. Since 2009 he has been member of research and teaching stuff at Technical University of Denmark, where he is involved in research on smart sensors for atmospheric physics, meteorology. In 2015 he received fund for innovative project where he conducts research and development of instruments for near-space industry. He is inventor of new flow sensor and has strong interest in smart sensor systems, radio communication, embedded applications, intelligent signal processing & control with low power profiles for multidisciplinary approach. He is handling IoT devices, wireless network and smart technology development related work in the CLAFIS project.
-  title: "Secure Application Development with Crypto Devices"
-
-- name: "Bernardo David"
-  affiliation: "IT University of Copenhagen"
-  link: "http://www.bmdavid.com/"
-  picture: "bmdavid.jpg"
-  bio: |
-    Bernardo David is an Associate Professor at the IT University of Copenhagen, working on cryptographic protocols for multiparty computation and blockchain applications with the support of Concordium Foundation, DFF and Protocol Labs grants. He holds a Ph.D. in Computer Science from Aarhus University and was previously an Assistant Professor at the Tokyo Institute of Technology, where his work was supported by a JSPS grant. Bernardo’s research has been published as over 30 articles in scientific journals and conferences. Among his main contributions is the first provably secure protocol for proof-of-stake blockchains. Besides academic activities, he has been a consultant for a number of industry projects on blockchains and information security, currently serving as scientific advisor to Concordium.
-  title: "Computing on Encrypted Data for Fun and Profit"
-
-- name: "Mark A. Fiedel"
-  affiliation: "Center for Cybersikkerhed"
-# link: ""
-  picture: "centerforcybersikkerhed.jpg"
-  bio: |
-    Mark Fiedel is Head of the Center for Cyber Security Analysis. He has worked with IT security, cyber threats and security for most of his professional career.
-
-    Mark's department is responsible for overseeing potential cyber threats that pose a threat to Denmark and Danish interests. Among other things, the department is responsible for the preparation of the ongoing threat assessments.
-  title: "Cybersecurity Threats in Denmark"
-
-- name: "Irfan Kanat"
-  affiliation: "Copenhagen Business School"
-  link: "https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/ikdigi"
-  picture: "ikanat.jpg"
-  bio: |
-    Irfan Kanat is an Assistant Professor at the Department of Digitalization. His research examines novel business models enabled by digital goods.
-  title: "Cybersecurity from Management Perspective"
-
-- name: "Lorena Ronquillo Moreno"
-  affiliation: "Copenhagen School of Design and Technology"
-#  link: ""
-  picture: "lmoreno.jpg"
-  bio: |
-    Lorena Ronquillo is a lecturer at Copenhagen School of Design and Technology (KEA) in Denmark, where she has been involved in creating, developing and teaching in the first professional bachelor in IT Security of Denmark. She was previously a postdoc at the IT University of Copenhagen, doing research on electronic elections at the DemTech research project. She holds a Ph.D degree in Computer Science from the Autonomous University of Barcelona (Spain) and has worked as a visiting PhD student at the University College of Dublin (Ireland). Her research interests have varied over the years from combinatorics, coding theory and data-hiding to applied cryptography.
-  title: "Security in e-voting"
-
-- name: Ken Bonefeld Nielsen
-  affiliation: Norlys
-  link: https://norlys.dk/
-  picture: "knielsen.jpg"
-  bio: |
-    Ken Bonefeld Nielsen VP & CISO of Norlys has a background from the Danish military and has for most of his professional life worked in the field of risk management and information and cyber security holding positions as CISO and CSO at Lundbeck, Tele2 etc.  For more than 13 years Ken was Director of Corporate Security for Sony Mobile, with global responsibility for most aspects of risk and security including protection against industrial espionage, crisis management, brand protection and product security.
-
-    Ken is holding an Executive MBA and has a great professional interest in critical infrastructure and crisis management.
-  title: "Denmark – the most vulnerable country in the world..."
-
-- name: "Marco Peressotti"
-  affiliation: "University of Southern Denmark"
-  link: "https://marcoperessotti.com/"
-  picture: "mperessotti.png"
-  bio: |
-    Marco Peressotti is an Assistant Professor of Computer Science at the University of Southern Denmark, Department of Mathematics and Computer Science. Marco serves as event coordinator of the Microservices Community. He received his Ph.D. Degree in Computer Science from the University of Udine, Italy in 2017. Marco’s research mission is to make it more effective and robust to program and analyse concurrent systems. An overarching theme of his research approach is the use of formal methods and programming languages techniques as well as the aim for a unifying mathematical perspective rooted in logic and category theory.
-  title: "Introduction to Formal Methods"
-
-- name: "Emmanouil Vasilomanolakis "
-  affiliation: "Aalborg University"
-  link: "https://mvasiloma.com/"
-  picture: "evasilomanolakis.jpg"
-  bio: |
-    Dr. Emmanouil Vasilomanolakis is an assistant professor at Aalborg University (AAU) in Copenhagen, Denmark.  His research interests include collaborative intrusion detection, honeypots and botnet monitoring. Before joining AAU, he was a senior researcher in the Technische Universität Darmstadt in Darmstadt, Germany.  He also served as the work-package leader in the EU H2020 project PROTECTIVE; a large-scale EU attempt to evolve cyber-security alert processing. Emmanouil received a PhD from the Technische Universität Darmstadt in 2016 for his dissertation "On Collaborative Intrusion Detection". He received his diploma (Dipl.-Inform.) and MSc from the University of the Aegean (Greece) in 2008 and 2011 respectively. Emmanouil has published and presented in major scientific conferences, workshops and journals on topics related to cyber-security (including ACM Computing Surveys, IEEE CNS, RAID, ACM Transactions on Privacy and Security, Black Hat Europe, Black Hat USA, Future Generation Computer Systems and Computers & Security).
-  title: "Capture the Flag Competition"
-
-- name: "Xiao Xiao"
-  affiliation: "Copenhagen Business School"
-  link: "https://www.cbs.dk/en/staff/xxdigi "
-  picture: "xxiao.jpg"
-  bio: |
-    Xiao Xiao is an Associate Professor at Copenhagen Business School, Department of Digitalization. She received her PhD in information systems from Washington State University, USA. Her main research areas include IT servitization (with the specific instance of cloud computing), ICT in emerging economies with a specific focus on digital commerce in China, qualitative research methodologies, and sports digitalization. She is currently involved in the research themes of "Cloud Business" and "Sports Digitalization" at DIGI.
-  title: "Cybersecurity from Management Perspective"
+    Bio
+  title: "Title"

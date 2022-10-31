@@ -3,7 +3,6 @@ title: Speakers
 layout: page
 ---
 
-
 {% for speaker in site.data.speakers %}
 <div class="col-md-6" style="padding-right:2rem">
 <h3><a id="{{speaker.name|slugify}}"></a>{{ speaker.name }}</h3>

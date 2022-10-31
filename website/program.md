@@ -1,13 +1,41 @@
 ---
 title: Program
 layout: page
-#feature_image: "/assets/images/andersen_museum.jpg"
 ---
 
 {% assign tentative = false %}
-{% assign ready = true %}
+{% assign ready = false %}
 
 {% if ready %}
+
+## Invited Speakers
+
+{% for speaker in site.data.speakers %}
+<div class="col-md-6" style="padding-right:2rem">
+<h3><a id="{{speaker.name|slugify}}"></a>{{ speaker.name }}</h3>
+<span class="glyphicon glyphicon-home" aria-hidden="true"></span> {{ speaker.affiliation }}
+{% if speaker.link %}<br><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span> <a href="{{ speaker.link }}">Homepage</a>{% endif %}
+{% if speaker.title %}<br><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> <a href="/program/">{{ speaker.title }}</a>{% endif %}
+{% if speaker.date %}<br><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> {{ speaker.date }}{% endif %}
+
+{% if speaker.bio %}
+<h4>Speaker's Bio</h4>
+
+<div class="text-muted text-justify">
+{% if speaker.picture %}
+<img class="img-thumbnail" style="margin:8px;max-width:120px;height:auto" align="left" src="{{ 'assets/images/speakers/' | append: speaker.picture | relative_url }}">
+{% endif %}
+{{ speaker.bio }}
+</div>
+{% elsif speaker.picture %}
+<br>
+<img class="img-thumbnail" style="margin:8px;max-width:120px;height:auto" align="left" src="{{ 'assets/images/speakers/' | append: speaker.picture | relative_url }}">
+{% endif %}
+<div class="clearfix"></div>
+</div>
+{% endfor %}
+
+## Schedule
 
 {% if tentative %}
 Please be aware that this is a tentative version of the conference program.
@@ -25,15 +53,7 @@ The finalised version will be published at the beginning of February.
   .btn:focus { outline: 0 !important; }
 </style>
 
-{% comment %}
-The lectures will be given either in Danish or in English; in case non-Danish
-speaking attendees are present, lectures will be given in English.
-{% endcomment %}
-
-You can recordings of the lectures on our [YouTube channel](https://www.youtube.com/channel/UCp3OmfUjujhdTDzvtuyX_Rg/) or following the links in the program below.
-
 {% for day in site.data.program %}
-
 <div style="margin-top:30px;background-color:{{ day.color }};border-radius: 5px 5px 0px 0px;padding-left: 5px;padding-bottom: 20px;padding-top: 1px;"><h1>{{ day.day }} - {{ day.theme }}</h1></div>
 <table class="col-xs-12">
   <tbody>
@@ -132,5 +152,5 @@ You can recordings of the lectures on our [YouTube channel](https://www.youtube.
   });
 </script>
 {% else %}
-TBD
+The schedule will be announced in early December.
 {% endif %}

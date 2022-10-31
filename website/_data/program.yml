@@ -1,83 +1,39 @@
 ---
-- day: October 29st
-  color: "#aeb4ff"
+- day: January 25th
+  color: "#aeffbf"
   theme: "First day"
   events:
     - title: Opening
       from: "09:00"
       to: "09:30"
-    - title: Cybersecurity Threats in Denmark
+    - title: Talk 1
       from: "09:30"
       to: "10:30"
       authors:
-        - name: Mark A. Fiedel
-          title: Head of Threat Assessment at CFCS
-      description: "Invited talk presenting the Cybersecurity Threats faced today by Danish Companies"
-    - title: Blockchain Technology
-      from: "10:40"
-      to: "11:40"
-      authors:
-        - name: Diego Aranha (AU)
-          title: Lecturer
-      video: vaOWoSo5tYE
-    - title: Computing on Encrypted Data for Fun and Profit
-      from: "13:00"
-      to: "14:00"
-      authors:
-        - name: Bernardo David (ITU)
-          title: Lecturer
-      video: 2aoE24CT0UE
-    - title: Security in e-voting
-      from: "14:05"
-      to: "15:05"
-      authors:
-        - name: Lorena Ronquillo Moreno (KEA)
-          title: Lecturer
-      video: 6KimSC7heHM
-    - title: Secure Application Development with Crypto Devices
-      from: "15:10"
-      to: "16:10"
-      authors:
-        - name: Tomasz Blaszczyk (DTU)
-          title: Lecturer
+        - name: Someone
+          title: Title
+      description: "Description"
 
-- day: October 30st
+- day: January 26th
   theme: "Second Day"
-  color: "#aeffbf"
+  color: "#aeb4ff"
   events:
-    - title: "Denmark – the most vulnerable country in the world..."
-      description:
-      from: "9:00"
-      to: "10:00"
-      authors:
-        - name: Ken Bonefeld Nielsen
-          title: Vice President & CISO of Norlys
-      location:
-    - title: Cybersecurity from Management Perspective
-      from: "10:10"
-      to: "11:10"
-      location:
-      authors:
-        - name: Xiao Xiao and Irfan Kanat (CBS)
-          title: Lecturers
-      video: W5NPHXJ35W4
-#   - title: Lunch break
-#     from: "11:10"
-#     to: "12:30"
-#     non-session: true
-    - title: Introduction to Formal Methods
-      from: "12:30"
-      to: "13:30"
-      location:
-      authors:
-        - name: Marco Peressotti (SDU)
-          title: Lecturer
-      video: nndcr1sWnTc
-    - title: Capture the Flag Competition
-      from: "13:40"
-      to: "14:40"
-      location:
-      authors:
-        - name: Emmanouil Vasilomanolakis (AUU)
-          title: Lecturer
-      video: ftZbDi6GbLw
+   - title: Talk 2
+     from: "10:10"
+     to: "11:10"
+     location:
+     authors:
+       - name: Someone and Someone Else
+         title: Lecturers
+   - title: Lunch break
+     from: "11:10"
+     to: "12:30"
+     non-session: true
+
+- day: January 27th
+  theme: "Third Day"
+  color: "#eb9d98"
+  events:
+    - title: Closing
+      from: "15:00"
+      to: "15:30"

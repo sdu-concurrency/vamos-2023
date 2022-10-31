@@ -56,14 +56,10 @@ header_right: |
 # 8. Site navigation
 navigation_header:
   Home: /
-# TODO(jacopo): Update speakers (_data/speakers.yml)
-#  Speakers: /speakers/
-# TODO(jacopo): Update program (_data/program.yml)
-#  Program: /program/
   CFP: /cfp/
   Registration: /registration/
+  Program: /program/
   Venue: /venue/
   Hotels: /hotels/
   Organisation: /organisation/
-#  Dates: /dates/
   Contact: /contact/
