@@ -5,18 +5,20 @@ layout: page
 
 <style>ul { padding-left: 15px; }</style>
 
-Coming soon. The link for the registration will be provided in early November.
+Registering for VaMoS 2023 is done through SDU's [Conference
+Manager](https://www.conferencemanager.dk/vamos23/signup) system. Follow the
+instructions on the page to sign up.
 
-Thanks for the patience.
+There are two registration options -- one that includes the planned social
+activities, and one that doesn't. The social activities are scheduled for 26
+January and consist of a visit to the [HC Andersens
+Hus](https://hcandersenshus.dk/en/) museum and a dinner at [Den Gamle
+Kro](https://dengamlekro.dk/). Both options include the conference lunches and
+coffee breaks.
 
-{% comment %}
-The conference registration is handled by SDU through Conference Manager.
-
-Click on the button below to open the registration page and follow the step to sign up for VaMoS 2023.
-
-https://www.conferencemanager.dk/cyberdays2020/signup
-
-{% endcomment %}
+The early registration deadline is **11 December 2022** and the two options cost
+DKK 3750 and DKK 3000, respectively. The final registration deadline is **15
+January 2023**, with the prices set at DKK 4000 and DKK 3250.
 
 ### Application for Free Registration for PhD Students and Postdocs
 
@@ -26,8 +28,8 @@ motivated PhD students or postdocs that wish to attend the conference.
 
 Applicants must send an email to the General Chair
 ([mauro@imada.sdu.dk](mailto:mauro@imada.sdu.dk)) with the subject line:
-"Application for VaMoS free registration - [Your Last Name]" **before November
-23rd**. The email should provide the following information:
+"Application for VaMoS free registration - [Your Last Name]" **before 23
+November 2022**. The email should provide the following information:
 
 - a text of max 2000 characters explaining the scientific relevance of the
   participation at VaMoS 2023 in relation to the applicant's current scientific
