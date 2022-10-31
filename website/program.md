@@ -15,8 +15,8 @@ The finalised version will be published at the beginning of February.
 {% endif %}
 
 <style>
-  td { padding: 8px; 
-    border-top: 1px solid #ddd; 
+  td { padding: 8px;
+    border-top: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
   }
   .left-td {  border-right: 4px solid #ddd; }
@@ -48,23 +48,23 @@ You can recordings of the lectures on our [YouTube channel](https://www.youtube.
           {% if event.authors %}
           <br>
           {% for author in event.authors %}
-            {% if author.title %} 
+            {% if author.title %}
               {{author.title}}: <strong>{{author.name}}</strong>
             {% else %}
               {{event.author}}
-            {% endif %}      
+            {% endif %}
           {% endfor %}
           {% endif %}
           {% if event.slides %}
             <br>
             <a target="_blank" style="color:white" href="/slides/{{event.slides}}"><label class="btn btn-xs btn-success">
-            <span class="glyphicon glyphicon-blackboard"></span> Slides</label></a> 
+            <span class="glyphicon glyphicon-blackboard"></span> Slides</label></a>
             <br>
           {% endif %}
           {% if event.video %}
             <br>
             <a target="_blank" style="color:white" href="https://www.youtube.com/watch?v={{event.video}}"><label class="btn btn-xs btn-success">
-            <span class="glyphicon glyphicon-film"></span> Video</label></a> 
+            <span class="glyphicon glyphicon-film"></span> Video</label></a>
             <br>
           {% endif %}
           {% if event.description %}
@@ -98,7 +98,7 @@ You can recordings of the lectures on our [YouTube channel](https://www.youtube.
                 Abstract</label>
               {% if paper.slides %}
               <a target="_blank" style="color:white" href="/slides/papers/{{paper.slides}}">
-                <label class="btn btn-xs btn-success"> <span class="glyphicon glyphicon-circle-arrow-down"></span> Slides</label></a> 
+                <label class="btn btn-xs btn-success"> <span class="glyphicon glyphicon-circle-arrow-down"></span> Slides</label></a>
               {% endif %}
               <div style="display:none;" class="abstract">
               <div style="margin-left: 30px;margin-top: 10px;" class="bg-warning">{{paper.abstract}}</div>
@@ -134,4 +134,3 @@ You can recordings of the lectures on our [YouTube channel](https://www.youtube.
 {% else %}
 TBD
 {% endif %}
-

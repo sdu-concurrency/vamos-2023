@@ -1,8 +1,8 @@
 <script>
 var checkFooter = function() {
   if ( window.innerHeight > $( "footer" ).position().top + $( "footer" ).height() ) {
-    $( "footer" ).css( 
-      "margin-top", 
+    $( "footer" ).css(
+      "margin-top",
       window.innerHeight - $( "footer" ).position().top - $( "footer" ).height() );
   } else {
     $( "footer" ).css( "margin-top", "3em" );
@@ -17,7 +17,7 @@ $( ".nav " ).click( checkFooter );
 
   <div class="mycontainer">
     {% include nav-footer.html %}
-    
+
     <div class="copyright  typeset">
       <small class="small">&copy; {{ site.title }}</small>
     </div>

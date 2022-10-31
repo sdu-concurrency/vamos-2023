@@ -33,7 +33,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: page # Default layout      
+      layout: page # Default layout
       feature_image: "/assets/images/andersen_museum.jpg"
 
 # 7. Site settings

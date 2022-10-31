@@ -13,7 +13,7 @@ As laid down in Article 13 of the General Data Protection Regulation (GDPR), we 
     - Jacopo Mauro
     - Campusvej Ø18-511a-2
     - Institut for Matematik og Datalogi
-    - Campusvej 55, 5230 Odense M, 
+    - Campusvej 55, 5230 Odense M,
     - Denmark
     - mauro ~ at ~ imada ~ dot ~ sdu ~ dot ~ dk
 - Affected persons: Students, Employees, external people (generally, every interested person can use the form to contact the organisers)
@@ -25,7 +25,7 @@ As laid down in Article 13 of the General Data Protection Regulation (GDPR), we 
     - Simon Kamber
     - Campusvej Ø18-511a-2
     - Institut for Matematik og Datalogi
-    - Campusvej 55, 5230 Odense M, 
+    - Campusvej 55, 5230 Odense M,
     - Denmark
     - dpo ~ at ~ sdu ~ dot ~ dk
 

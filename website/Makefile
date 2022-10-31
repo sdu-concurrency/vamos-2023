@@ -8,19 +8,19 @@ all: install build
 
 editions: $(editions)
 
-install: 
+install:
 	$(BUNDLE) config --global silence_root_warning 1
 	$(BUNDLE) config --global disable_platform_warnings true
 	$(BUNDLE) install
 
-update: 
+update:
 	$(BUNDLE) update
 
-clean: 
+clean:
 	$(JEKYLL) clean
 
-build: 
+build:
 	$(JEKYLL) build
 
-serve: 
+serve:
 	$(JEKYLL) serve

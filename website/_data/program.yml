@@ -11,7 +11,7 @@
       to: "10:30"
       authors:
         - name: Mark A. Fiedel
-          title: Head of Threat Assessment at CFCS 
+          title: Head of Threat Assessment at CFCS
       description: "Invited talk presenting the Cybersecurity Threats faced today by Danish Companies"
     - title: Blockchain Technology
       from: "10:40"
@@ -34,7 +34,7 @@
         - name: Lorena Ronquillo Moreno (KEA)
           title: Lecturer
       video: 6KimSC7heHM
-    - title: Secure Application Development with Crypto Devices 
+    - title: Secure Application Development with Crypto Devices
       from: "15:10"
       to: "16:10"
       authors:
@@ -50,13 +50,13 @@
       from: "9:00"
       to: "10:00"
       authors:
-        - name: Ken Bonefeld Nielsen 
+        - name: Ken Bonefeld Nielsen
           title: Vice President & CISO of Norlys
-      location: 
+      location:
     - title: Cybersecurity from Management Perspective
       from: "10:10"
       to: "11:10"
-      location: 
+      location:
       authors:
         - name: Xiao Xiao and Irfan Kanat (CBS)
           title: Lecturers

@@ -17,13 +17,13 @@
 {% if date.entries %}
   {% for entry in date.entries %}
     {% if entry.date %}
-      {% capture t %} 
+      {% capture t %}
       <time datetime="{{entry.date}}">
         {{ entry.date | date: "%a %d %b %Y"}}
       </time>
       {% endcapture %}
     {% elsif entry.to and entry.from %}
-      {% capture t %} 
+      {% capture t %}
         {% capture from %}
           {% assign fy = entry.from | date: "%Y" %}
           {% assign ty = entry.to 	| date: "%Y" %}
@@ -37,7 +37,7 @@
             {{ entry.from | date: "%a %d" }}
           {% endif %}
         {% endcapture %}
-        <time datetime="{{entry.from}}">{{ from }}</time> - 
+        <time datetime="{{entry.from}}">{{ from }}</time> -
         <time datetime="{{entry.to}}">{{ entry.to | date: "%a %d %b %Y"}}</time>
       {% endcapture %}
     {% endif %}
@@ -70,7 +70,7 @@
 </div>
 
 <style>
- .vcenter { 
+ .vcenter {
   display: inline-block;
   vertical-align: middle;
   float: none;
@@ -135,11 +135,11 @@
   <strong>Microservices Community Events</strong>
   </div>
   <ul class="list-group">
-  <li class="list-group-item"> 
+  <li class="list-group-item">
     <div>Upcoming events</div>
     <div id="microservices_community_events_upcoming"></div>
   </li>
-  <li class="list-group-item"> 
+  <li class="list-group-item">
     <div>Latests past events</div>
     <div id="microservices_community_events_past"></div>
   </li>
@@ -151,7 +151,7 @@
 function microservices_community_events( data ){
   const upcoming = $( "#microservices_community_events_upcoming" )
   data.upcoming.forEach( element => {
-    upcoming.append( 
+    upcoming.append(
       `<div>
       <a target="_blank" href="${ element.link }">
         <div class="microservices_community_event" >${ element.title }</div>
@@ -161,7 +161,7 @@ function microservices_community_events( data ){
   const past = $( "#microservices_community_events_past" )
   data.past.forEach( ( element, index ) => {
     if( index > 2 ){ return }
-    past.append( 
+    past.append(
       `<div>
       <a target="_blank" href="${ element.link }">
         <div class="microservices_community_event" >${ element.title }</span>
