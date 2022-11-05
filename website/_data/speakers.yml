@@ -2,15 +2,17 @@
 - name: "Yves Bossu"
   affiliation: "Product Configuration Specialist at Renault"
   link: "https://fr.linkedin.com/in/yvesbossu"
-  picture: ""
+  picture: "ybossu.jpg"
   bio: |
-    Bio
-  title: "Title"
+    Yves Bossu is Knowledge Representation and Reasoning Expert at Renault Group.
 
-- name: "Marsha Chechik"
-  affiliation: "University of Toronto"
-  link: "https://www.cs.toronto.edu/~chechik/"
-  picture: ""
-  bio: |
-    Bio
-  title: "Title"
+    After completing a master degree in engineering and a PhD in nuclear physics, Yves was real-time software developer, project manager and consultant for various software houses. In 1998 he co-authored the first book about Java for embedded systems. In 2000 he joined the Applied Artificial Intelligence Chapter of the IS/IT Direction of Renault. He develops and maintains Renault's in-house configuration engine used by applications that manage the Vehicle Product Line of the Renault-Nissan-Mitsubishi Alliance.
+  title: "Variability and Complexity: Automotive Product Line Management as a Constraint Satisfaction Problem"
+
+# - name: "Marsha Chechik"
+#   affiliation: "University of Toronto"
+#   link: "https://www.cs.toronto.edu/~chechik/"
+#   picture: ""
+#   bio: |
+#     Bio
+#   title: "Title"

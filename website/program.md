@@ -6,12 +6,10 @@ layout: page
 {% assign tentative = false %}
 {% assign ready = false %}
 
-{% if ready %}
-
 ## Invited Speakers
 
 {% for speaker in site.data.speakers %}
-<div class="col-md-6" style="padding-right:2rem">
+<div class="col-md-12" style="padding-right:2rem">
 <h3><a id="{{speaker.name|slugify}}"></a>{{ speaker.name }}</h3>
 <span class="glyphicon glyphicon-home" aria-hidden="true"></span> {{ speaker.affiliation }}
 {% if speaker.link %}<br><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span> <a href="{{ speaker.link }}">Homepage</a>{% endif %}
@@ -35,7 +33,12 @@ layout: page
 </div>
 {% endfor %}
 
+&nbsp;
+&nbsp;
+
 ## Schedule
+
+{% if ready %}
 
 {% if tentative %}
 Please be aware that this is a tentative version of the conference program.
