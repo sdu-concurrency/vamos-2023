@@ -9,13 +9,11 @@ Registering for VaMoS 2023 is done through SDU's [Conference
 Manager](https://www.conferencemanager.dk/vamos23/signup) system. Follow the
 instructions on the page to sign up.
 
-There are two registration options -- one that includes the planned social
-dinner, and one that doesn't. The social activities are scheduled for 26
-January and consist of a visit to the [HC Andersens
-Hus](https://hcandersenshus.dk/en/) museum and a dinner at [Den Gamle
-Kro](https://dengamlekro.dk/). Both options include the conference lunches, 
-coffee breaks, and the group visit to the [HC Andersens
-Hus](https://hcandersenshus.dk/en/) museum.
+There are two registration options -- one that includes the social dinner, and
+one that doesn't. The dinner is scheduled for 26 January at the [Den Gamle
+Kro](https://dengamlekro.dk/) restaurant. Both options include the conference
+lunches, coffee breaks and a trip to the [HC Andersens
+Hus](https://hcandersenshus.dk/en/) museum, also on 26 January.
 
 The early registration deadline is **11 December 2022** and the two options cost
 DKK 3750 and DKK 3000, respectively. The final registration deadline is **15
