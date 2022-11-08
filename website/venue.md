@@ -48,8 +48,8 @@ journey takes approximately two hours.
 ### Getting to SDU
 
 Once in Odense, the University of Southern Denmark main campus can be reached by
-bus (operated by [FynBus](https://www.fynbus.dk/?lang=29)), by [light rail
-(Letbane)](https://www.odenseletbane.dk/english) or by car. Since the public
+bus (operated by [FynBus](https://www.fynbus.dk/?lang=29)), by [letbane (light
+rail)](https://www.odenseletbane.dk/english) or by car. Since the public
 transportation lines might change, the best way to plan your trip is to use
 [Rejseplanen (Journey
 Planner)](https://www.rejseplanen.dk/webapp/?language=en_EN) and follow its
