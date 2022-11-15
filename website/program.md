@@ -18,7 +18,7 @@ layout: page
 
 {% if speaker.abstract %}
 <h4>Abstract</h4>
-<div class="text-muted text-justify">
+<div class="text-muted text-justify" style="padding-top: 10px;">
 {{ speaker.abstract }}
 </div>
 {% endif %}
@@ -26,7 +26,7 @@ layout: page
 {% if speaker.bio %}
 <h4>Speaker's Bio</h4>
 
-<div class="text-muted text-justify">
+<div class="text-muted text-justify" style="padding-top: 10px;">
 {% if speaker.picture %}
 <img class="img-thumbnail" style="margin:8px;max-width:120px;height:auto" align="left" src="{{ 'assets/images/speakers/' | append: speaker.picture | relative_url }}">
 {% endif %}
