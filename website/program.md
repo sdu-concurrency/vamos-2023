@@ -16,6 +16,13 @@ layout: page
 {% if speaker.title %}<br><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> <a href="/program/">{{ speaker.title }}</a>{% endif %}
 {% if speaker.date %}<br><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> {{ speaker.date }}{% endif %}
 
+{% if speaker.abstract %}
+<h4>Abstract</h4>
+<div class="text-muted text-justify">
+{{ speaker.abstract }}
+</div>
+{% endif %}
+
 {% if speaker.bio %}
 <h4>Speaker's Bio</h4>
 
