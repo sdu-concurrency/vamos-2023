@@ -27,7 +27,7 @@
 
 - summary: Initial Decision and Notification
   id: notification
-  expired: false
+  expired: true
   entries:
     - date: 2022-11-15
       zone:
