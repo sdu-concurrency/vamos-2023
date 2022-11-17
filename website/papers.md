@@ -10,6 +10,10 @@ layout: page
 - Lennart Holsten, Christian Frank, Jacob Krüger and Thomas Leich. Electric/Electronic Platforms in the Automotive Industry: Challenges and Guidelines for Variant-Rich Systems Engineering
 - Domenik Eichhorn, Tobias Pett, Nils Przigoda, Jessica Kindsvater, Christoph Seidl and Ina Schaefer. Coverage-Driven Test Automation for Railway Systems with Nested Variability
 - Stefan Fischer, Gabriela Karoline Michelon, Wesley K. G. Assunção, Rudolf Ramler and Alexander Egyed. Designing a Test Model for a Configurable System: An Exploratory Study of Preprocessor Directives and Feature Toggles
+{% comment %}
+- Alessio Di Sandro, Ramy Shahin and Marsha Chechik. Adding Product-Line Capabilities to Your Favourite Modeling Language
+- Giovanna Bettin, Julio Herculani, Amanda Melo, Luiz Andrade and Edson Oliveirajr. An Experimental Evaluation of Inspection techniques for SMarty-based Software Product Line Diagrams
+{% endcomment %}
 - Alexander Schultheiß, Paul Bittner, Sandra Greiner and Timo Kehrer. Benchmark Generation with VEVOS: A Coverage Analysis of Evolution Scenarios in Variant-Rich Systems
 
 ### Short Papers
@@ -20,11 +24,20 @@ layout: page
 ### Variability-in-Practice Papers
 
 - Shubham Sharma, Hafiyyan Sayyid Fadhlillah, Antonio M. Gutierrez, Rick Rabiser and Alois Zoitl. Modularization Technique to Support Software Variability in Cyber-Physical Production Systems
+{% comment %}
+- Chris Weber. Generating documents with FeatureIDE and pandoc
+{% endcomment %}
 
 ### New and Controversial Idea Papers
 
 - Hafiyyan Sayyid Fadhlillah, Kevin Feichtinger, Antonio Manuel Gutiérrez Fernández and Rick Rabiser. Dynamic Product Configuration User Interface: A Vision Motivated by the Cyber-Physical Production Systems Domain
+{% comment %}
+- Mathieu Acher, Luc Lesoil, Georges Aaron Randrianaina, Xhevahire Tërnava and Olivier Zendra. A Call for Removing Variability
+{% endcomment %}
 - Edilton Santos, Pierre-Yves Schobbens, Ivan Machado and Gilles Perrouin. Architectural Bad Smells for Self-Adaptive Systems: Go Runtime!
+{% comment %}
+- Paul Temple and Gilles Perrouin. Software Engineering Features are Machine Learning Features: Is that Simple?
+{% endcomment %}
 
 ### VaMoS 2021 Talks
 
