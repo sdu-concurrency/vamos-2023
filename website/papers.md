@@ -1,5 +1,5 @@
 ---
-title: Proceedings
+title: Accepted Papers
 layout: page
 ---
 
