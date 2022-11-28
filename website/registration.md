@@ -27,10 +27,9 @@ motivated PhD students or postdocs that wish to attend the conference.
 
 Applicants must send an email to the General Chair
 ([mauro@imada.sdu.dk](mailto:mauro@imada.sdu.dk)) with the subject line:
-"Application for VaMoS free registration - [Your Last Name]" 
-~~before 23
-November 2022~~
-**before 5 December 2022**. The email should provide the following information:
+"Application for VaMoS free registration - [Your Last Name]" ~~before 23
+November 2022~~ **before 5 December 2022**. The email should provide the
+following information:
 
 - a text of max 2000 characters explaining the scientific relevance of the
   participation at VaMoS 2023 in relation to the applicant's current scientific
