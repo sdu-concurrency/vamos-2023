@@ -9,8 +9,7 @@
     - Thomas Leich
 
 - id: lp2
-  title: |
-    Coverage-Driven Test Automation for Railway Systems with Nested Variability
+  title: Coverage-Driven Test Automation for Highly-Configurable Railway Systems
   authors:
     - Domenik Eichhorn
     - Tobias Pett
@@ -37,8 +36,7 @@
   conditional: true
 
 - id: lp5
-  title: |
-    An Experimental Evaluation of Inspection techniques for SMarty-based Software Product Line Diagrams
+  title: "Efficacy, Efficiency and Effectiveness of SMarty-based Software Product Line Inspection Techniques: a Controlled Quasi-Experiment"
   authors:
     - Giovanna Bettin
     - Julio Herculani
@@ -86,8 +84,7 @@
     - Alois Zoitl
 
 - id: vipp2
-  title: |
-    Generating documents with FeatureIDE and pandoc
+  title: Generating Documents with FeatureIDE and pandoc
   authors:
     - Chris Weber
   conditional: true
@@ -121,8 +118,7 @@
     - Gilles Perrouin
 
 - id: ncip4
-  title: |
-    Software Engineering Features are Machine Learning Features: Is that Simple?
+  title: Explicit or Implicit? On Feature Engineering for ML-based Variability-intensive Systems
   authors:
     - Paul Temple
     - Gilles Perrouin
