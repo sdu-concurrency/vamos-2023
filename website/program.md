@@ -3,8 +3,8 @@ title: Program
 layout: page
 ---
 
-{% assign tentative = false %}
-{% assign ready = false %}
+{% assign preliminary = false %}
+{% assign ready = true %}
 
 ## Invited Speakers
 
@@ -47,9 +47,9 @@ layout: page
 
 {% if ready %}
 
-{% if tentative %}
-Please be aware that this is a tentative version of the conference program.
-The finalised version will be published at the beginning of February.
+{% if preliminary %}
+Please be aware that this is a preliminary version of the conference program.
+The finalised version will be published at the beginning of January.
 {% endif %}
 
 <style>
@@ -64,7 +64,7 @@ The finalised version will be published at the beginning of February.
 </style>
 
 {% for day in site.data.program %}
-<div style="margin-top:30px;background-color:{{ day.color }};border-radius: 5px 5px 0px 0px;padding-left: 5px;padding-bottom: 20px;padding-top: 1px;"><h1>{{ day.day }} - {{ day.theme }}</h1></div>
+<div style="margin-top:30px;background-color:{{ day.color }};border-radius: 5px 5px 0px 0px;padding-left: 5px;padding-bottom: 20px;padding-top: 1px;"><h1>{{ day.theme }}: {{ day.day }}</h1></div>
 <table class="col-xs-12">
   <tbody>
       {% for event in day.events %}
@@ -75,13 +75,17 @@ The finalised version will be published at the beginning of February.
         </td>
         <td class="right-td">
           <span class="text-primary lead">{{event.title}}</span>
+          {% if event.keynote %}
+            <br>
+            <span class="lead">{{event.keynote.title}}</span>
+          {% endif %}
           {% if event.authors %}
           <br>
           {% for author in event.authors %}
             {% if author.title %}
               {{author.title}}: <strong>{{author.name}}</strong>
             {% else %}
-              {{event.author}}
+              {{author.name}}
             {% endif %}
           {% endfor %}
           {% endif %}
@@ -104,22 +108,21 @@ The finalised version will be published at the beginning of February.
           {% endif %}
           {% if event.papers.size > 0 %}
             {% for pid in event.papers %}
-              {% assign id = pid | minus: 1 %}
-              {% assign paper = site.data.papers[id]%}
+              {% assign paper = site.data.papers | find: "id", pid %}
               <div class="presentation">
               <strong>{{ paper.title }}</strong>
               <br>
-              <strong class="text-muted">
+              <span class="text-muted">
                 {% if paper.authors.size == 1 %}
                 Author:
                 {% else %}
                 Authors:
                 {% endif %}
                 {% for author in paper.authors %}
-                  {{author}}{% if forloop.last == false %}; {% endif %}
+                  {{author}}{% if forloop.last == false %}, {% endif %}
                 {% endfor %}
-              </strong>
-              {% unless tentative %}
+              </span>
+              {% unless preliminary %}
               <br>
               <a target="_blank" style="color:white" href="{{paper.link}}">
                 <label class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-circle-arrow-down"></span> Paper

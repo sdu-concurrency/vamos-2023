@@ -1,39 +1,119 @@
----
 - day: January 25th
   color: "#aeffbf"
-  theme: "First day"
+  theme: Day 1
   events:
     - title: Opening
+      from: "08:30"
+      to: "09:00"
+    - title: Keynote
       from: "09:00"
-      to: "09:30"
-    - title: Talk 1
-      from: "09:30"
-      to: "10:30"
+      to: "10:00"
+      keynote:
+        title: Defining, Analyzing, Querying and Assuring Product Line Models
       authors:
-        - name: Someone
-          title: Title
-      description: "Description"
+        - name: Marsha Chechik
+          title: Speaker
+    - title: Break
+      from: "10:00"
+      to: "10:30"
+    - title: |
+        Session 1: Solution-Space Modeling
+      from: "10:30"
+      to: "12:00"
+      papers:
+        - lp4
+        - vipp1
+        - v22t1
+    - title: Lunch
+      from: "12:00"
+      to: "13:00"
+    - title: Most Influential Paper Award
+      from: "13:00"
+      to: "13:30"
+    - title: |
+        Session 2: Benchmarking and Experiments
+      from: "13:30"
+      to: "14:30"
+      papers:
+        - lp6
+        - lp5
+    - title: Break
+      from: "14:30"
+      to: "15:00"
+    - title: |
+        Session 3: Re-Engineering
+      from: "15:00"
+      to: "16:30"
+      papers:
+        - sp1
+        - sp2
+        - v21t5
 
 - day: January 26th
-  theme: "Second Day"
+  theme: "Day 2"
   color: "#aeb4ff"
   events:
-   - title: Talk 2
-     from: "10:10"
-     to: "11:10"
-     location:
+   - title: Keynote
+     from: "09:00"
+     to: "10:00"
+     keynote:
+       title: Product Configuration Specialist at Renault
      authors:
-       - name: Someone and Someone Else
-         title: Lecturers
-   - title: Lunch break
-     from: "11:10"
-     to: "12:30"
-     non-session: true
+       - name: Yves Bossu
+         title: Speaker
+   - title: Break
+     from: "10:00"
+     to: "10:30"
+   - title: |
+       Session 4: Industrial Applications
+     from: "10:30"
+     to: "12:00"
+     papers:
+       - lp1
+       - lp2
+       - vipp2
+   - title: Lunch
+     from: "12:00"
+     to: "13:00"
+   - title: |
+       Session 5: New and Controversial Ideas
+     from: "13:00"
+     to: "14:30"
+     papers:
+       - ncip3
+       - ncip1
+       - ncip2
+       - ncip4
+   - title: Trip to HC Andersens Hus Museum
+     from: "14:30"
+     to: "16:30"
 
 - day: January 27th
-  theme: "Third Day"
+  theme: "Day 3"
   color: "#eb9d98"
   events:
+    - title: |
+        Session 6: Product-Line Testing
+      from: "08:30"
+      to: "10:00"
+      papers:
+        - lp3
+        - v22t2
+        - v21t3
+    - title: Break
+      from: "10:00"
+      to: "10:30"
+    - title: |
+        Session 7: Product-Line Analysis
+      from: "10:30"
+      to: "12:00"
+      papers:
+        - v21t4
+        - v21t2
+        - v21t1
     - title: Closing
-      from: "15:00"
-      to: "15:30"
+      from: "12:00"
+      to: "12:15"
+    - title: Lunch
+      from: "12:15"
+      to: "13:00"
