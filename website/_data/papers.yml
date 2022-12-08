@@ -1,0 +1,195 @@
+# Long Papers
+
+- id: lp1
+  title: "Electric/Electronic Platforms in the Automotive Industry: Challenges and Guidelines for Variant-Rich Systems Engineering"
+  authors:
+    - Lennart Holsten
+    - Christian Frank
+    - Jacob Krüger
+    - Thomas Leich
+
+- id: lp2
+  title: |
+    Coverage-Driven Test Automation for Railway Systems with Nested Variability
+  authors:
+    - Domenik Eichhorn
+    - Tobias Pett
+    - Nils Przigoda
+    - Jessica Kindsvater
+    - Christoph Seidl
+    - Ina Schaefer
+
+- id: lp3
+  title: "Designing a Test Model for a Configurable System: An Exploratory Study of Preprocessor Directives and Feature Toggles"
+  authors:
+    - Stefan Fischer
+    - Gabriela Karoline Michelon
+    - Wesley K. G. Assunção
+    - Rudolf Ramler
+    - Alexander Egyed
+
+- id: lp4
+  title: Adding Product-Line Capabilities to Your Favourite Modeling Language
+  authors:
+    - Alessio Di Sandro
+    - Ramy Shahin
+    - Marsha Chechik
+  conditional: true
+
+- id: lp5
+  title: |
+    An Experimental Evaluation of Inspection techniques for SMarty-based Software Product Line Diagrams
+  authors:
+    - Giovanna Bettin
+    - Julio Herculani
+    - Amanda Melo
+    - Luiz Andrade
+    - Edson Oliveirajr
+  conditional: true
+
+- id: lp6
+  title: "Benchmark Generation with VEVOS: A Coverage Analysis of Evolution Scenarios in Variant-Rich Systems"
+  authors:
+    - Alexander Schultheiß
+    - Paul Bittner
+    - Sandra Greiner
+    - Timo Kehrer
+
+# Short Papers
+
+- id: sp1
+  title: "Guiding Feature Models Synthesis from User-Stories: An Exploratory Approach"
+  authors:
+    - Thomas Georges
+    - Liam Rice
+    - Marianne Huchard
+    - Mélanie König
+    - Clémentine Nebut
+    - Chouki Tibermacine
+
+- id: sp2
+  title: Uniquifying Architecture Visualization through Variable 3D Model Generation
+  authors:
+    - Adrian Hoff
+    - Christoph Seidl
+    - Michele Lanza
+
+# Variability-in-Practice Papers
+
+- id: vipp1
+  title: Modularization Technique to Support Software Variability in Cyber-Physical Production Systems
+  authors:
+    - Shubham Sharma
+    - Hafiyyan Sayyid Fadhlillah
+    - Antonio M. Gutierrez
+    - Rick Rabiser
+    - Alois Zoitl
+
+- id: vipp2
+  title: |
+    Generating documents with FeatureIDE and pandoc
+  authors:
+    - Chris Weber
+  conditional: true
+
+# New and Controversial Idea Papers
+
+- id: ncip1
+  title: "Dynamic Product Configuration User Interface: A Vision Motivated by the Cyber-Physical Production Systems Domain"
+  authors:
+    - Hafiyyan Sayyid Fadhlillah
+    - Kevin Feichtinger
+    - Antonio Manuel Gutiérrez Fernández
+    - Rick Rabiser
+
+- id: ncip2
+  title: A Call for Removing Variability
+  authors:
+    - Mathieu Acher
+    - Luc Lesoil
+    - Georges Aaron Randrianaina
+    - Xhevahire Tërnava
+    - Olivier Zendra
+  conditional: true
+
+- id: ncip3
+  title: "Architectural Bad Smells for Self-Adaptive Systems: Go Runtime!"
+  authors:
+    - Edilton Santos
+    - Pierre-Yves Schobbens
+    - Ivan Machado
+    - Gilles Perrouin
+
+- id: ncip4
+  title: |
+    Software Engineering Features are Machine Learning Features: Is that Simple?
+  authors:
+    - Paul Temple
+    - Gilles Perrouin
+  conditional: true
+
+# VaMoS 2021 Talks
+
+- id: v21t1
+  title: Static Analysis Techniques for Efficient Consistency Checking of Real-Time-Aware DSPL Specifications
+  authors:
+    - Hendrik Göttmann
+    - Isabelle Bacher
+    - Nicolas Gottwald
+    - Malte Lochau
+
+- id: v21t2
+  title: On Preserving Variability Consistency in Multiple Models
+  authors:
+    - Sandra Greiner
+    - Bernhard Westfechtel
+
+- id: v21t3
+  title: Stability of Product-Line Sampling in Continuous Integration
+  authors:
+    - Tobias Pett
+    - Sebastian Krieter
+    - Tobias Runge
+    - Thomas Thüm
+    - Malte Lochau
+    - Ina Schaefer
+
+- id: v21t4
+  title: Applications of #SAT Solvers on Feature Models
+  authors:
+    - Chico Sundermann
+    - Michael Nieke
+    - Paul Maximilian Bittner
+    - Tobias Heß
+    - Thomas Thüm
+    - Ina Schaefer
+
+- id: v21t5
+  title: A Hybrid Feature Location Technique for Re-engineering Single Systems into Software Product Lines
+  authors:
+    - Gabriela Karoline Michelon
+    - Lukas Linsbauer
+    - Wesley K. G. Assunção
+    - Stefan Fischer
+    - Alexander Egyed
+
+# VaMoS 2022 Talks
+
+- id: v22t1
+  title: Towards Multidisciplinary Delta-Oriented Variability Management in Cyber-Physical Production Systems
+  authors:
+    - Hafiyyan Sayyid Fadhlillah
+    - Kevin Feichtinger
+    - Kristof Meixner
+    - Lisa Sonnleithner
+    - Rick Rabiser
+    - Alois Zoitl
+
+- id: v22t2
+  title: Feature-Interaction Sampling for Scenario-based Testing of Advanced Driver Assistance Systems
+  authors:
+    - Lukas Birkemeyer
+    - Tobias Pett
+    - Andreas Vogelsang
+    - Christoph Seidl
+    - Ina Schaefer
