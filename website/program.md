@@ -110,7 +110,7 @@ The finalised version will be published at the beginning of January.
             {% for pid in event.papers %}
               {% assign paper = site.data.papers | find: "id", pid %}
               <div class="presentation">
-              <strong>{{ paper.title }}</strong>
+              <strong>{{ paper | vamos_program_title }}</strong>
               <br>
               <span class="text-muted">
                 {% if paper.authors.size == 1 %}
