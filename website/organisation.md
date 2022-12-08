@@ -65,6 +65,14 @@ layout: page
   </tbody>
 </table>
 
+### Proceedings Chair
+
+<table>
+  <tbody>
+    <tr><td>Tobias Heß</td><td>University of Ulm</td></tr>
+  </tbody>
+</table>
+
 ### Publicity Chair
 
 <table>
