@@ -15,9 +15,9 @@ Kro](https://dengamlekro.dk/) restaurant. Both options include the conference
 lunches, coffee breaks and a trip to the [HC Andersens
 Hus](https://hcandersenshus.dk/en/) museum, also on 26 January.
 
-The early registration deadline is **11 December 2022** and the two options cost
-DKK 3750 and DKK 3000, respectively. The final registration deadline is **15
-January 2023**, with the prices set at DKK 4000 and DKK 3250.
+The early registration deadline is ~~11 December 2022~~ **18 December 2022** and
+the two options cost DKK 3750 and DKK 3000, respectively. The final registration
+deadline is **15 January 2023**, with the prices set at DKK 4000 and DKK 3250.
 
 ### Application for Free Registration for PhD Students and Postdocs
 

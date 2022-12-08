@@ -47,7 +47,7 @@
   id: conference
   expired: false
   entries:
-    - date: 2022-12-11
+    - date: 2022-12-18
       zone:
         tzid: Etc/GMT+12
         label: AoE (UTC-12)
