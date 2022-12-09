@@ -1,3 +1,16 @@
+# Most Influential Paper
+
+- id: mip1
+  title: A Survey of Variability Modeling in Industrial Practice
+  authors:
+    - Thorsten Berger
+    - Ralf Rublack
+    - Divya Nair
+    - Joanne M. Atlee
+    - Martin Becker
+    - Krzysztof Czarnecki
+    - Andrzej Wąsowski
+
 # Long Papers
 
 - id: lp1

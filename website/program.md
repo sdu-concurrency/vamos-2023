@@ -43,6 +43,27 @@ layout: page
 &nbsp;
 &nbsp;
 
+## Most Influential Paper
+
+#### [A Survey of Variability Modeling in Industrial Practice](https://dl.acm.org/doi/abs/10.1145/2430502.2430513)
+
+{% assign mip = site.data.papers | find: "id", "mip1" %}
+{% for author in mip.authors %} {{ author }}{% if forloop.last == false %}, {% endif %} {% endfor %}
+
+#### Abstract
+
+Over more than two decades, numerous variability modeling techniques have been
+introduced in academia and industry. However, little is known about the actual
+use of these techniques. While dozens of experience reports on software product
+line engineering exist, only very few focus on variability modeling. This lack
+of empirical data threatens the validity of existing techniques, and hinders
+their improvement. As part of our effort to improve empirical understanding of
+variability modeling, we present the results of a survey questionnaire
+distributed to industrial practitioners. These results provide insights into
+application scenarios and perceived benefits of variability modeling, the
+notations and tools used, the scale of industrial models, and experienced
+challenges and mitigation strategies.
+
 ## Schedule
 
 {% if ready %}

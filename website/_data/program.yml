@@ -27,9 +27,11 @@
     - title: Lunch
       from: "12:00"
       to: "13:00"
-    - title: Most Influential Paper Award
+    - title: Most Influential Paper
       from: "13:00"
       to: "13:30"
+      papers:
+        - mip1
     - title: |
         Session 2: Benchmarking and Experiments
       from: "13:30"
