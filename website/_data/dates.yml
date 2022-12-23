@@ -45,7 +45,7 @@
 
 - summary: Early Registration
   id: conference
-  expired: false
+  expired: true
   entries:
     - date: 2022-12-18
       zone:
