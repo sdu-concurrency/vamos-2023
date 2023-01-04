@@ -1,20 +1,13 @@
-FROM alpine as source
-
-WORKDIR /
-
-RUN apk update && \
-apk upgrade && \
-apk add git make curl wget bash ruby ruby-bundler \
-ruby ruby-bigdecimal ruby-bundler ca-certificates \
-ruby-dev build-base ruby-webrick ruby-nokogiri ruby-json \
-libxml2-dev libxslt-dev libffi-dev
-
-FROM source as build
-
-RUN git clone --depth=1 https://github.com/sdu-concurrency/vamos-2023.git /git
-WORKDIR /git/website
-RUN make all
+FROM ruby:3.1.3-bullseye AS build
+ENV JEKYLL_ROOTLESS=1
+ENV GEM_HOME="/gems"
+ENV PATH="/gems/bin:$PATH" 
+RUN gem install jekyll bundler && \
+  git clone --depth=1 https://github.com/sdu-concurrency/vamos-2023.git /git && \
+  cd git/website && \
+  bundle install && \
+  bundle exec jekyll build -d /output_website
 
 FROM jolielang/leonardo
 ENV LEONARDO_WWW /web
-COPY --from=build /git/website/_site $LEONARDO_WWW
+COPY --from=build /output_website $LEONARDO_WWW
