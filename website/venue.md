@@ -6,8 +6,7 @@ layout: page
 ## Location
 
 VaMoS 2023 will take place at the Odense Campus of the [University of Southern
-Denmark](http://www.sdu.dk/en/), [*Room
-U45*](https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb929423b7d0540c9a4d1).
+Denmark](http://www.sdu.dk/en/), in [*The Winter Garden Room*](https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/56eac1c90064920c18c2ea2a).
 
 ## Directions
 
