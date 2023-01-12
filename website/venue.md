@@ -6,7 +6,8 @@ layout: page
 ## Location
 
 VaMoS 2023 will take place at the Odense Campus of the [University of Southern
-Denmark](http://www.sdu.dk/en/), in [*The Winter Garden Room*](https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/56eac1c90064920c18c2ea2a).
+Denmark (SDU)](http://www.sdu.dk/en/), in [the Winter
+Garden](https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/56eac1c90064920c18c2ea2a).
 
 ## Directions
 
@@ -46,8 +47,8 @@ journey takes approximately two hours.
 
 ### Getting to SDU
 
-Once in Odense, the University of Southern Denmark main campus can be reached by
-bus (operated by [FynBus](https://www.fynbus.dk/?lang=29)), by [letbane (light
+Once in Odense, SDU's campus can be reached by bus (operated by
+[FynBus](https://www.fynbus.dk/?lang=29)), by [letbane (light
 rail)](https://www.odenseletbane.dk/english) or by car. Since the public
 transportation lines might change, the best way to plan your trip is to use
 [Rejseplanen (Journey
@@ -56,11 +57,29 @@ instructions.
 
 Tickets for both the bus and the light rail can be bought from the [FynBus
 webshop](https://webshop.fynbus.dk/) or the FynBus Mobilbillet smartphone app
-(available for both Android and iPhone). For the bus specifically, tickets can
-also be bought from the bus driver. If you're planning on coming by car, there
-are parking spaces available at the campus.
+(available for both
+[Android](https://play.google.com/store/apps/details?id=dk.fynbus.mobilbillet)
+and [iOS](https://apps.apple.com/dk/app/fynbus-mobilbillet/id1299644418)). For
+the bus specifically, tickets can also be bought from the bus driver. If you're
+planning on coming by car, there are parking spaces available at the campus.
 
-The main campus is formed by an extended number of buildings. If you get lost,
-just enter any university building: they are all connected, and there are maps
-on most main doors. You can also find your way by using [SDU's online
+The full overview of the campus with marked parking lots and bus terminals can
+be downloaded as a PDF
+[here](https://sdu.azureedge.net/-/media/files/om_sdu/vejviser/odense/kort_campusvej_140222.pdf?rev=0aef28b7f3224f2fa3dc0a5fc0255fa6&hash=06B1C5175EA8DD59983D3A178562E251).
+
+### Getting to the Winter Garden
+
+After arriving at SDU's [main entrace (Gydehutten
+N)](https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/565436600064920bd0ef1b63)
+close to the light rail station, enter the building up the set of stairs and
+continue down the main corridor until you reach the [Winter
+Garden](https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/56eac1c90064920c18c2ea2a)
+on your left, right across the cafeteria. For convenience, an overview of the
+path is shown in the image below (north is to the left).
+
+The campus is formed by an extended number of buildings. If you get lost, just
+enter any university building -- they are all connected, and there are maps on
+most main doors. You can also find your way by using [SDU's online
 map](https://maps.sdu.dk).
+
+<img src="/assets/images/map.png" alt="winter-garden-map">
