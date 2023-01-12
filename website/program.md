@@ -128,8 +128,8 @@ The finalised version will be published at the beginning of January.
             <br>
           {% endif %}
           {% if event.papers.size > 0 %}
-            {% for pid in event.papers %}
-              {% assign paper = site.data.papers | find: "id", pid %}
+            {% for event_paper in event.papers %}
+              {% assign paper = site.data.papers | find: "id", event_paper.id %}
               <div class="presentation">
               <strong>{{ paper | vamos_program_title }}</strong>
               <br>
@@ -143,6 +143,18 @@ The finalised version will be published at the beginning of January.
                   {{author}}{% if forloop.last == false %}, {% endif %}
                 {% endfor %}
               </span>
+              {% if event_paper.presenter %}
+              <br>
+              <span class="text-muted">
+                Presenter: {{event_paper.presenter}}
+              </span>
+              {% endif %}
+              {% if event_paper.discussant %}
+              <br>
+              <span class="text-muted">
+                Discussant: {{event_paper.discussant}}
+              </span>
+              {% endif %}
               {% unless preliminary %}
               <br>
               {% if paper.slides %}

@@ -21,9 +21,15 @@
       from: "10:30"
       to: "12:00"
       papers:
-        - lp4
-        - vipp1
-        - v22t1
+        - id: lp4
+          presenter: "Alessio Di Sandro"
+          discussant: "Hafiyyan Sayyid Fadhlillah"
+        - id: vipp1
+          presenter: "Shubham Sharma"
+          discussant: "Alessio Di Sandro"
+        - id: v22t1
+          presenter: "Hafiyyan Sayyid Fadhlillah"
+          discussant: "Shubham Sharma"
     - title: Lunch
       from: "12:00"
       to: "13:00"
@@ -31,14 +37,19 @@
       from: "13:00"
       to: "13:30"
       papers:
-        - mip1
+        - id: mip1
+          presenter: "Thorsten Berger"
     - title: |
         Session 2: Benchmarking and Experiments
       from: "13:30"
       to: "14:30"
       papers:
-        - lp6
-        - lp5
+        - id: lp6
+          presenter: "Paul Bittner"
+          discussant: "Wesley K. G. Assunção"
+        - id: lp5
+          presenter: "Wesley K. G. Assunção"
+          discussant: "Paul Bittner"
     - title: Break
       from: "14:30"
       to: "15:00"
@@ -47,9 +58,15 @@
       from: "15:00"
       to: "16:30"
       papers:
-        - sp1
-        - sp2
-        - v21t5
+        - id: sp1
+          presenter: "Thomas Georges"
+          discussant: "Wesley K. G. Assunção"
+        - id: sp2
+          presenter: "Adrian Hoff"
+          discussant: "Thomas Georges"
+        - id: v21t5
+          presenter: "Wesley K. G. Assunção"
+          discussant: "Adrian Hoff"
 
 - day: January 26th
   theme: "Day 2"
@@ -72,9 +89,15 @@
      from: "10:30"
      to: "12:00"
      papers:
-       - lp1
-       - lp2
-       - vipp2
+       - id: lp1
+         presenter: "Lennart Holsten"
+         discussant: "Chris Weber"
+       - id: lp2
+         presenter: "Domenik Eichhorn"
+         discussant: "Lennart Holsten"
+       - id: vipp2
+         presenter: "Chris Weber"
+         discussant: "Domenik Eichhorn"
    - title: Lunch
      from: "12:00"
      to: "13:00"
@@ -83,10 +106,18 @@
      from: "13:00"
      to: "14:00"
      papers:
-       - ncip3
-       - ncip1
-       - ncip2
-       - ncip4
+       - id: ncip3
+         presenter: "Edilton Santos"
+         discussant: "Xhevahire Tërnava"
+       - id: ncip1
+         presenter: "Hafiyyan Sayyid Fadhlillah"
+         discussant: "Paul Temple"
+       - id: ncip2
+         presenter: "Xhevahire Tërnava"
+         discussant: "Edilton Santos"
+       - id: ncip4
+         presenter: "Paul Temple"
+         discussant: "Hafiyyan Sayyid Fadhlillah"
    - title: Trip to HC Andersens Hus Museum
      from: "14:30"
      to: "16:30"
@@ -102,9 +133,15 @@
       from: "08:30"
       to: "10:00"
       papers:
-        - lp3
-        - v22t2
-        - v21t3
+        - id: lp3
+          presenter: "Stefan Fischer"
+          discussant: "Tobias Pett"
+        - id: v22t2
+          presenter: "Lukas Birkemeyer"
+          discussant: "Stefan Fischer"
+        - id: v21t3
+          presenter: "Tobias Pett"
+          discussant: "Lukas Birkemeyer"
     - title: Break
       from: "10:00"
       to: "10:30"
@@ -113,9 +150,15 @@
       from: "10:30"
       to: "12:00"
       papers:
-        - v21t4
-        - v21t2
-        - v21t1
+        - id: v21t4
+          presenter: "Chico Sundermann"
+          discussant: "Hendrik Göttmann"
+        - id: v21t2
+          presenter: "Sandra Greiner"
+          discussant: "Chico Sundermann"
+        - id: v21t1
+          presenter: "Hendrik Göttmann"
+          discussant: "Sandra Greiner"
     - title: Closing
       from: "12:00"
       to: "12:15"
