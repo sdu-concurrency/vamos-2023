@@ -54,7 +54,7 @@
 
 - summary: Late Registration
   id: conference
-  expired: false
+  expired: true
   entries:
     - date: 2023-01-15
       zone:
