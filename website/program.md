@@ -96,19 +96,33 @@ The finalised version will be published at the beginning of January.
         </td>
         <td class="right-td">
           <span class="text-primary lead">{{event.title}}</span>
+          {% unless event.keynote %}
+            {% if event.chair %}
+              <br>
+              <span class="text-muted">
+              Session Chair: {{event.chair}}
+              </span>
+            {% endif %}
+          {% endunless %}
           {% if event.keynote %}
             <br>
             <span class="lead">{{event.keynote.title}}</span>
           {% endif %}
           {% if event.authors %}
-          <br>
-          {% for author in event.authors %}
-            {% if author.title %}
-              {{author.title}}: <strong>{{author.name}}</strong>
-            {% else %}
-              {{author.name}}
+            <br>
+            {% for author in event.authors %}
+              {% if author.title %}
+                {{author.title}}: <strong>{{author.name}}</strong>
+              {% else %}
+                {{author.name}}
+              {% endif %}
+            {% endfor %}
+            {% if event.chair %}
+              <br>
+              <span class="text-muted">
+              Session Chair: {{event.chair}}
+              </span>
             {% endif %}
-          {% endfor %}
           {% endif %}
           {% if event.slides %}
             <br>

@@ -13,9 +13,11 @@
       authors:
         - name: Marsha Chechik
           title: Speaker
+      chair: Jacopo Mauro
     - title: Break
       from: "10:00"
       to: "10:30"
+      non-session: true
     - title: |
         Session 1: Solution-Space Modeling
       from: "10:30"
@@ -30,6 +32,7 @@
         - id: v22t1
           presenter: "Hafiyyan Sayyid Fadhlillah"
           discussant: "Shubham Sharma"
+      chair: Christoph Seidl
     - title: Lunch
       from: "12:00"
       to: "13:00"
@@ -39,6 +42,7 @@
       papers:
         - id: mip1
           presenter: "Thorsten Berger"
+      chair: Myra Cohen
     - title: |
         Session 2: Benchmarking and Experiments
       from: "13:30"
@@ -50,6 +54,7 @@
         - id: lp5
           presenter: "Wesley K. G. Assunção"
           discussant: "Paul Bittner"
+      chair: Gilles Perrouin
     - title: Break
       from: "14:30"
       to: "15:00"
@@ -67,6 +72,7 @@
         - id: v21t5
           presenter: "Wesley K. G. Assunção"
           discussant: "Adrian Hoff"
+      chair: Sandra Greiner
 
 - day: January 26th
   theme: "Day 2"
@@ -81,6 +87,7 @@
      authors:
        - name: Yves Bossu
          title: Speaker
+     chair: Thomas Thüm
    - title: Break
      from: "10:00"
      to: "10:30"
@@ -98,6 +105,7 @@
        - id: vipp2
          presenter: "Chris Weber"
          discussant: "Domenik Eichhorn"
+     chair: Xhevahire Tërnava
    - title: Lunch
      from: "12:00"
      to: "13:00"
@@ -118,6 +126,7 @@
        - id: ncip4
          presenter: "Paul Temple"
          discussant: "Hafiyyan Sayyid Fadhlillah"
+     chair: Maurice ter Beek
    - title: Trip to HC Andersens Hus Museum
      from: "14:30"
      to: "16:30"
@@ -142,6 +151,7 @@
         - id: v21t3
           presenter: "Tobias Pett"
           discussant: "Lukas Birkemeyer"
+      chair: Chico Sundermann
     - title: Break
       from: "10:00"
       to: "10:30"
@@ -159,6 +169,7 @@
         - id: v21t1
           presenter: "Hendrik Göttmann"
           discussant: "Sandra Greiner"
+      chair: Alessandro Fantechi
     - title: Closing
       from: "12:00"
       to: "12:15"
