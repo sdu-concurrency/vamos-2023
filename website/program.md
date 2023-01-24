@@ -85,7 +85,7 @@ The finalised version will be published at the beginning of January.
 </style>
 
 {% for day in site.data.program %}
-<div style="margin-top:30px;background-color:{{ day.color }};border-radius: 5px 5px 0px 0px;padding-left: 5px;padding-bottom: 20px;padding-top: 1px;"><h1>{{ day.theme }}: {{ day.day }}</h1></div>
+<div style="margin-top:30px;background-color:{{ day.color }};border-radius: 5px 5px 0px 0px;padding-left: 5px;padding-bottom: 20px;padding-top: 1px;"><h1>{{ day.day }}</h1></div>
 <table class="col-xs-12">
   <tbody>
       {% for event in day.events %}

@@ -1,6 +1,5 @@
-- day: January 25th
+- day: "January 25: Wednesday"
   color: "#aeffbf"
-  theme: Day 1
   events:
     - title: Opening
       from: "08:30"
@@ -74,8 +73,7 @@
           discussant: "Adrian Hoff"
       chair: Sandra Greiner
 
-- day: January 26th
-  theme: "Day 2"
+- day: "January 26: Thursday"
   color: "#aeb4ff"
   events:
    - title: Keynote
@@ -133,8 +131,7 @@
    - title: Social Dinner at Den Gamle Kro
      from: "18:30"
 
-- day: January 27th
-  theme: "Day 3"
+- day: "January 27: Friday"
   color: "#eb9d98"
   events:
     - title: |
