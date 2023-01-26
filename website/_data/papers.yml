@@ -2,6 +2,7 @@
 
 - id: mip1
   title: "A Survey of Variability Modeling in Industrial Practice"
+  link: "https://dl.acm.org/doi/10.1145/2430502.2430513"
   authors:
     - Thorsten Berger
     - Ralf Rublack
@@ -15,6 +16,7 @@
 
 - id: lp1
   title: "Electric/Electronic Platforms in the Automotive Industry: Challenges and Guidelines for Variant-Rich Systems Engineering"
+  link: "https://dl.acm.org/doi/10.1145/3571788.3571796"
   authors:
     - Lennart Holsten
     - Christian Frank
@@ -23,6 +25,7 @@
 
 - id: lp2
   title: "Coverage-Driven Test Automation for Highly-Configurable Railway Systems"
+  link: "https://dl.acm.org/doi/10.1145/3571788.3571794"
   authors:
     - Domenik Eichhorn
     - Tobias Pett
@@ -33,6 +36,7 @@
 
 - id: lp3
   title: "Designing a Test Model for a Configurable System: An Exploratory Study of Preprocessor Directives and Feature Toggles"
+  link: "https://dl.acm.org/doi/10.1145/3571788.3571795"
   authors:
     - Stefan Fischer
     - Gabriela Karoline Michelon
@@ -42,6 +46,7 @@
 
 - id: lp4
   title: "Adding Product-Line Capabilities to Your Favourite Modeling Language"
+  link: "https://dl.acm.org/doi/10.1145/3571788.3571791"
   authors:
     - Alessio Di Sandro
     - Ramy Shahin
@@ -50,6 +55,7 @@
 
 - id: lp5
   title: "Efficacy, Efficiency and Effectiveness of SMarty-based Software Product Line Inspection Techniques: a Controlled Quasi-Experiment"
+  link: "https://dl.acm.org/doi/10.1145/3571788.3571792"
   authors:
     - Giovanna Bettin
     - Julio Herculani
@@ -60,6 +66,7 @@
 
 - id: lp6
   title: "Benchmark Generation with VEVOS: A Coverage Analysis of Evolution Scenarios in Variant-Rich Systems"
+  link: "https://dl.acm.org/doi/10.1145/3571788.3571793"
   authors:
     - Alexander Schultheiß
     - Paul Bittner
@@ -70,6 +77,7 @@
 
 - id: sp1
   title: "Guiding Feature Models Synthesis from User-Stories: An Exploratory Approach"
+  link: "https://dl.acm.org/doi/10.1145/3571788.3571797"
   authors:
     - Thomas Georges
     - Liam Rice
@@ -80,6 +88,7 @@
 
 - id: sp2
   title: "Uniquifying Architecture Visualization through Variable 3D Model Generation"
+  link: "https://dl.acm.org/doi/10.1145/3571788.3571798"
   authors:
     - Adrian Hoff
     - Christoph Seidl
@@ -89,6 +98,7 @@
 
 - id: vipp1
   title: "Modularization Technique to Support Software Variability in Cyber-Physical Production Systems"
+  link: "https://dl.acm.org/doi/10.1145/3571788.3571800"
   authors:
     - Shubham Sharma
     - Hafiyyan Sayyid Fadhlillah
@@ -98,6 +108,7 @@
 
 - id: vipp2
   title: "Generating Documents with FeatureIDE and pandoc"
+  link: "https://dl.acm.org/doi/10.1145/3571788.3571806"
   authors:
     - Chris Weber
   conditional: true
@@ -106,6 +117,7 @@
 
 - id: ncip1
   title: "Dynamic Product Configuration User Interface: A Vision Motivated by the Cyber-Physical Production Systems Domain"
+  link: "https://dl.acm.org/doi/10.1145/3571788.3571803"
   authors:
     - Hafiyyan Sayyid Fadhlillah
     - Kevin Feichtinger
@@ -114,6 +126,7 @@
 
 - id: ncip2
   title: "A Call for Removing Variability"
+  link: "https://dl.acm.org/doi/10.1145/3571788.3571801"
   authors:
     - Mathieu Acher
     - Luc Lesoil
@@ -124,6 +137,7 @@
 
 - id: ncip3
   title: "Architectural Bad Smells for Self-Adaptive Systems: Go Runtime!"
+  link: "https://dl.acm.org/doi/10.1145/3571788.3571802"
   authors:
     - Edilton Santos
     - Pierre-Yves Schobbens
@@ -132,6 +146,7 @@
 
 - id: ncip4
   title: "Explicit or Implicit? On Feature Engineering for ML-based Variability-intensive Systems"
+  link: "https://dl.acm.org/doi/10.1145/3571788.3571804"
   authors:
     - Paul Temple
     - Gilles Perrouin
@@ -141,6 +156,7 @@
 
 - id: v21t1
   title: "Static Analysis Techniques for Efficient Consistency Checking of Real-Time-Aware DSPL Specifications"
+  link: "https://dl.acm.org/doi/10.1145/3442391.3442409"
   authors:
     - Hendrik Göttmann
     - Isabelle Bacher
@@ -149,12 +165,14 @@
 
 - id: v21t2
   title: "On Preserving Variability Consistency in Multiple Models"
+  link: "https://dl.acm.org/doi/10.1145/3442391.3442399"
   authors:
     - Sandra Greiner
     - Bernhard Westfechtel
 
 - id: v21t3
   title: "Stability of Product-Line Sampling in Continuous Integration"
+  link: "https://dl.acm.org/doi/10.1145/3442391.3442410"
   authors:
     - Tobias Pett
     - Sebastian Krieter
@@ -165,6 +183,7 @@
 
 - id: v21t4
   title: "Applications of #SAT Solvers on Feature Models"
+  link: "https://dl.acm.org/doi/10.1145/3442391.3442404"
   authors:
     - Chico Sundermann
     - Michael Nieke
@@ -175,6 +194,7 @@
 
 - id: v21t5
   title: "A Hybrid Feature Location Technique for Re-engineering Single Systems into Software Product Lines"
+  link: "https://dl.acm.org/doi/10.1145/3442391.3442403"
   authors:
     - Gabriela Karoline Michelon
     - Lukas Linsbauer
@@ -186,6 +206,7 @@
 
 - id: v22t1
   title: "Towards Multidisciplinary Delta-Oriented Variability Management in Cyber-Physical Production Systems"
+  link: "https://dl.acm.org/doi/10.1145/3510466.3511273"
   authors:
     - Hafiyyan Sayyid Fadhlillah
     - Kevin Feichtinger
@@ -196,6 +217,7 @@
 
 - id: v22t2
   title: "Feature-Interaction Sampling for Scenario-based Testing of Advanced Driver Assistance Systems"
+  link: "https://dl.acm.org/doi/10.1145/3510466.3510474"
   authors:
     - Lukas Birkemeyer
     - Tobias Pett

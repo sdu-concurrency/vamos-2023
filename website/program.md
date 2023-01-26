@@ -45,9 +45,10 @@ layout: page
 
 ## Most Influential Paper
 
-#### [A Survey of Variability Modeling in Industrial Practice](https://dl.acm.org/doi/abs/10.1145/2430502.2430513)
-
 {% assign mip = site.data.papers | find: "id", "mip1" %}
+
+#### [{{ mip.title }}]({{ mip.link }})
+
 {% for author in mip.authors %} {{ author }}{% if forloop.last == false %}, {% endif %} {% endfor %}
 
 #### Abstract
@@ -106,7 +107,7 @@ The finalised version will be published at the beginning of January.
           {% endunless %}
           {% if event.keynote %}
             <br>
-            <span class="lead">{{event.keynote.title}}</span>
+            <span class="lead"><a href="{{ event.keynote.link }}" style="color:#000000;"><strong>{{event.keynote.title}}</strong></a></span>
           {% endif %}
           {% if event.authors %}
             <br>
@@ -145,7 +146,7 @@ The finalised version will be published at the beginning of January.
             {% for event_paper in event.papers %}
               {% assign paper = site.data.papers | find: "id", event_paper.id %}
               <div class="presentation">
-              <strong>{{ paper | vamos_program_title }}</strong>
+              <a href="{{ paper.link }}" style="color:#000000;"><strong>{{ paper | vamos_program_title }}</strong></a>
               <br>
               <span class="text-muted">
                 {% if paper.authors.size == 1 %}

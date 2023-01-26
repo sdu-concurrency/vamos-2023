@@ -8,7 +8,8 @@
       from: "09:00"
       to: "10:00"
       keynote:
-        title: Defining, Analyzing, Querying and Assuring Product Line Models
+        title: "Defining, Analyzing, Querying and Assuring Product Line Models"
+        link: https://dl.acm.org/doi/10.1145/3571788.3571805
       authors:
         - name: Marsha Chechik
           title: Speaker
@@ -80,8 +81,8 @@
      from: "09:00"
      to: "10:00"
      keynote:
-       title: |
-         Variability and Complexity: Automotive Product Line Management as a Constraint Satisfaction Problem
+       title: "Variability and Complexity: Automotive Product Line Management as a Constraint Satisfaction Problem"
+       link: https://dl.acm.org/doi/10.1145/3571788.3571790
      authors:
        - name: Yves Bossu
          title: Speaker
