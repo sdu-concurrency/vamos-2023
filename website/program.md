@@ -12,8 +12,14 @@ layout: page
 <div class="col-md-12" style="padding-right:2rem">
 <h3><a id="{{speaker.name|slugify}}"></a>{{ speaker.name }}</h3>
 <span class="glyphicon glyphicon-home" aria-hidden="true"></span> {{ speaker.affiliation }}
-{% if speaker.link %}<br><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span> <a href="{{ speaker.link }}">Homepage</a>{% endif %}
-{% if speaker.title %}<br><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> <a href="/program/">{{ speaker.title }}</a>{% endif %}
+{% if speaker.homepage %}<br><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span> <a href="{{ speaker.homepage }}">Homepage</a>{% endif %}
+{% if speaker.title %}<br><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span>
+  {% if speaker.link %}
+    <a href="{{ speaker.link }}">{{ speaker.title }}</a>
+  {% else %}
+    {{ speaker.title }}
+  {% endif %}
+{% endif %}
 {% if speaker.date %}<br><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> {{ speaker.date }}{% endif %}
 
 {% if speaker.abstract %}

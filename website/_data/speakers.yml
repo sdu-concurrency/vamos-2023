@@ -1,19 +1,21 @@
 - name: "Yves Bossu"
   affiliation: "Product Configuration Specialist at Renault"
-  link: "https://fr.linkedin.com/in/yvesbossu"
+  homepage: "https://fr.linkedin.com/in/yvesbossu"
   picture: "ybossu.jpg"
   abstract: |
     Everybody has configured a car on the web site of an automotive manufacturer, but probably few are aware of the wide diversity of vehicles offered. The specificity of the automotive product of a generalist manufacturer like Renault is the combination of a very big number of variants of vehicles and a complex net of constraints on these products. Classical database tools are not enough to cope with this mix of diversity and complexity: requests and computing on the vehicle range must be done with Constraint Satisfaction solvers. These tools must be used at each level of the value chain that goes from the engineering level to the after-sale. The needed services are vehicle configuration, but other types of treatments, such as documentation consistency control, definition of the Bill of Material, repair methods, factories capacity planning. This keynote will present a global roundup of the types of CSP services needed by different business stages of the enterprise, and some indication on the in-house knowledge compilation technology Renault developed to implement these functions.
   bio: |
     Yves Bossu is Knowledge Representation and Reasoning Expert at Renault Group. After completing a master degree in engineering and a PhD in nuclear physics, Yves was a real-time software developer, project manager and consultant for various software houses. In 1998 he co-authored the first book about Java for embedded systems. In 2000 he joined the Applied Artificial Intelligence Chapter of the IS/IT Direction of Renault. He develops and maintains Renault's in-house configuration engine used by applications that manage the Vehicle Product Line of the Renault-Nissan-Mitsubishi Alliance.
   title: "Variability and Complexity: Automotive Product Line Management as a Constraint Satisfaction Problem"
+  link: "https://dl.acm.org/doi/10.1145/3571788.3571790"
 
 - name: "Marsha Chechik"
   affiliation: "University of Toronto"
-  link: "https://www.cs.toronto.edu/~chechik/"
+  homepage: "https://www.cs.toronto.edu/~chechik/"
   picture: "mchechik.jpg"
   abstract: |
     Throughout its development and maintenance cycle, software is subject to many activities including design, analysis, evolution, testing, safety certification, querying, debugging, repair. Since industry commonly adopts software product lines to manage the development of complex families of software systems, there is a clear need to support all of these activities for product lines. In this talk, I will describe a number of approaches based on "lifting" -- a reinterpretation of the meaning of product-level activities for the entire product line. I will also describe design decisions for the underlying tool support and results of applying these tools in the automotive domain.
   bio: |
     Marsha Chechik is Professor and Bell University Chair in Software Engineering in the Department of Computer Science as well as Acting Dean of Faculty of Information at the University of Toronto. She received her Ph.D. from the University of Maryland. Prof. Chechik's research interests are in the application of formal methods to improve the quality of software. She has authored over 200 papers in formal methods, software specification and verification, computer safety and security and requirements engineering. She is a member of IFIP WG 2.9 on Requirements Engineering, an Associate Editor in Chief of Journal on Software and Systems Modeling, and Vice Chair of ACM SIGSOFT. Marsha Chechik has been Program Committee Co-Chair of FM'23, ESEC/FSE'21, ICSE'18, TACAS'16, VSTTE'16, ASE'14, CONCUR'18. She has graduated 13 Ph.D. students, most of whom remain active researchers.
   title: "Defining, Analyzing, Querying and Assuring Product Line Models"
+  link: "https://dl.acm.org/doi/10.1145/3571788.3571805"
