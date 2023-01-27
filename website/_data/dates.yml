@@ -63,7 +63,7 @@
 
 - summary: Conference
   id: conference
-  expired: false
+  expired: true
   entries:
     - from: 2023-01-25
       to: 2023-01-27
